@@ -77,7 +77,9 @@ class Twitch:
             data={"client_id": cid, "client_secret": sec, "grant_type": "client_credentials"},
             timeout=30,
         )
-        r.raise_for_status()
+        if r.status_code != 200:
+            sys.exit(f"Twitch recusou o login do app ({r.status_code}): {r.text[:200]} | "
+                     f"tamanho do ID: {len(cid)}, tamanho do segredo: {len(sec)}")
         self.h = {"Client-Id": cid, "Authorization": "Bearer " + r.json()["access_token"]}
         self.calls = 0
 
