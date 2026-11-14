@@ -1,6 +1,6 @@
 {
   "game_name": "Grand Theft Auto V",
-  "window_hours": 168,
+  "window_hours": 24,
   "category_pages": 8,
   "pt_stream_pages": 5,
   "max_pt_broadcasters": 150,
@@ -15,5 +15,5 @@
   "audio_checks_per_scan": 40,
   "pool_days": 7,
   "whisper_model": "base",
-  "per_broadcaster_clips": 50
+  "per_broadcaster_clips": 30
 }
