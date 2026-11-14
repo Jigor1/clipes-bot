@@ -198,7 +198,7 @@ def main():
     seen = {c["id"] for c in clips}
     extra = 0
     for bid in pt_ids:
-        j = tw.get("/clips", {"broadcaster_id": bid, "started_at": iso(start), "ended_at": iso(NOW), "first": 20})
+        j = tw.get("/clips", {"broadcaster_id": bid, "started_at": iso(start), "ended_at": iso(NOW), "first": CFG.get("per_broadcaster_clips", 20)})
         for c in j.get("data", []):
             if c["game_id"] == gid and c["id"] not in seen:
                 clips.append(c)
