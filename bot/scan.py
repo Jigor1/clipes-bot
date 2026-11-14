@@ -28,11 +28,24 @@ CFG = json.loads((ROOT / "config.json").read_text())
 API = "https://api.twitch.tv/helix"
 NOW = datetime.now(timezone.utc)
 
-PT_HINTS = re.compile(
-    r"\b(ao vivo|jogando|hoje|cidade alta|complexo|vem pro|rumo|nao|não|voce|você|"
-    r"galera|zerando|primeira vez|brasil|pt-?br)\b",
+PT_STRONG = re.compile(
+    r"\b(ao vivo|jogando|hoje|cidade alta|complexo|vem pro|não|nao|você|voce|galera|zerando|"
+    r"primeira vez|brasil|pt-?br|mano|pra|tá|ta on|né|muito|agora|sem|então|até|minha|meu|kkk+|deu ruim|"
+    r"policial|pol[ií]cia|fuga|assalto|cidade|favela|morro|bora|vamo|fazendo|dia \d+|vida)\b"
+    r"|ção|ções|ão\b|ã|õ|ç",
     re.I,
 )
+PT_WEAK = re.compile(r"\b(de|do|da|que|com|o|os|um|uma|no|na|é|e o|e a)\b", re.I)
+EN_WORDS = re.compile(r"\b(the|and|with|you|is|are|this|what|my|of|to|in|on)\b", re.I)
+
+
+def pt_like(text):
+    """Texto parece portugues? (titulo da live / do clipe)"""
+    t = text or ""
+    strong = len(PT_STRONG.findall(t))
+    weak = len(PT_WEAK.findall(t))
+    en = len(EN_WORDS.findall(t))
+    return strong >= 1 and (strong * 2 + weak) > en or (weak >= 2 and en == 0)
 
 
 def load(name, default):
@@ -170,7 +183,7 @@ def main():
     for s in others:
         if s["user_id"] in langcache or s["language"] == "pt":
             continue
-        if PT_HINTS.search(s.get("title", "")):
+        if pt_like(s.get("title", "")):
             langcache[s["user_id"]] = {"name": s["user_login"], "lang": "?pt", "src": "titulo",
                                        "last_seen": iso(NOW), "viewers": s["viewer_count"]}
             hinted += 1
@@ -212,8 +225,9 @@ def main():
             c["lang"], c["lang_src"] = lang, "streamer(audio)"
             continue
         tag = c.get("language", "")
-        need_audio = lang == "?pt" or tag not in ("pt", "en") or (tag == "en" and lang is None)
-        # so ouve candidatos com chance de entrar
+        # so ouve o audio quando a live NAO esta marcada em pt mas ha sinal de portugues
+        # (titulo em portugues ou streamer suspeito); assim nao gasta tempo com o resto
+        need_audio = tag != "pt" and lang != "pt" and (lang == "?pt" or pt_like(c.get("title", "")))
         if need_audio and checks < CFG["audio_checks_per_scan"] and c["view_count"] >= min(CFG["min_views"].values()):
             checks += 1
             al, prob, text = detect_lang(c)

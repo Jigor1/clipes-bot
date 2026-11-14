@@ -4,11 +4,15 @@
   "category_pages": 8,
   "pt_stream_pages": 5,
   "max_pt_broadcasters": 150,
-  "languages": ["pt", "en"],
-  "min_views": {"pt": 15, "en": 150},
+  "languages": [
+    "pt"
+  ],
+  "min_views": {
+    "pt": 15
+  },
   "min_duration": 8,
   "max_per_broadcaster_per_scan": 4,
-  "audio_checks_per_scan": 120,
+  "audio_checks_per_scan": 40,
   "pool_days": 7,
   "whisper_model": "base"
 }
