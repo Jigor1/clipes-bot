@@ -1,0 +1,250 @@
+{
+ "canais": {
+  "rybsonlol": {
+   "lang": "polish",
+   "viewers": 5321
+  },
+  "atzzuk1": {
+   "lang": "portuguese",
+   "viewers": 3222
+  },
+  "elmiillor": {
+   "lang": "spanish",
+   "viewers": 3204
+  },
+  "hazretiyasuo": {
+   "lang": "turkish",
+   "viewers": 2485
+  },
+  "coscu": {
+   "lang": "spanish",
+   "viewers": 2351
+  },
+  "lukisteve": {
+   "lang": "polish",
+   "viewers": 1895
+  },
+  "grafo": {
+   "lang": "spanish",
+   "viewers": 1396
+  },
+  "16arbey": {
+   "lang": "turkish",
+   "viewers": 1137
+  },
+  "freezecz": {
+   "lang": "czech",
+   "viewers": 1098
+  },
+  "faturetosl": {
+   "lang": "portuguese",
+   "viewers": 768
+  },
+  "opat04": {
+   "lang": "czech",
+   "viewers": 743
+  },
+  "berkanlol": {
+   "lang": "turkish",
+   "viewers": 512
+  },
+  "taylolxd": {
+   "lang": "portuguese",
+   "viewers": 461
+  },
+  "tatulol": {
+   "lang": "portuguese",
+   "viewers": 456
+  },
+  "petrylive": {
+   "lang": "romanian",
+   "viewers": 435
+  },
+  "miafitz": {
+   "lang": "turkish",
+   "viewers": 392
+  },
+  "sol1xd": {
+   "lang": "spanish",
+   "viewers": 376
+  },
+  "samkz": {
+   "lang": "portuguese",
+   "viewers": 375
+  },
+  "brucer": {
+   "lang": "portuguese",
+   "viewers": 327
+  },
+  "elcesarlive": {
+   "lang": "spanish",
+   "viewers": 288
+  },
+  "aegislol1": {
+   "lang": "portuguese",
+   "viewers": 269
+  },
+  "micao": {
+   "lang": "portuguese",
+   "viewers": 213
+  },
+  "junincwb": {
+   "lang": "portuguese",
+   "viewers": 204
+  },
+  "coachturtle": {
+   "lang": "portuguese",
+   "viewers": 196
+  },
+  "akashi_lol": {
+   "lang": "arabic",
+   "viewers": 174
+  },
+  "jb_sniper": {
+   "lang": "portuguese",
+   "viewers": 165
+  },
+  "apophis01": {
+   "lang": "turkish",
+   "viewers": 161
+  },
+  "lymos123": {
+   "lang": "turkish",
+   "viewers": 151
+  },
+  "jubilausz": {
+   "lang": "portuguese",
+   "viewers": 140
+  },
+  "morphains": {
+   "lang": "spanish",
+   "viewers": 132
+  },
+  "batuuulol": {
+   "lang": "turkish",
+   "viewers": 124
+  },
+  "kubon": {
+   "lang": "polish",
+   "viewers": 124
+  }
+ },
+ "tentativas": [
+  {
+   "tag": "lives_pt",
+   "url": "https://kick.com/stream/livestreams/pt?page=1&limit=50&subcategory=league-of-legends&sort=desc",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"current_page\":1,\"data\":[{\"id\":138348580,\"slug\":\"e495b427-26-kod-rybson-na-g4skins-betclic-steelseries-holy-pirateswap\",\"channel_id\":29658059,\"created_at\":\"2026-11-17 11:26:38\",\"session_title\":\"26\\ud83e\\udd73\\ud83c\\udf89 | KOD RYBSON na !g4skins | !betclic !steelseries !holy !pirateswap\",\"is_live\":",
+   "chaves": [
+    "current_page",
+    "data",
+    "first_page_url",
+    "from",
+    "next_page_url",
+    "path",
+    "per_page",
+    "prev_page_url",
+    "to"
+   ]
+  },
+  {
+   "tag": "lives_categoria_v2",
+   "url": "https://kick.com/api/v2/categories/league-of-legends/livestreams?limit=50&sort=viewers",
+   "status": 404,
+   "type": "application/json",
+   "amostra": "{\n    \"message\": \"\"\n}"
+  },
+  {
+   "tag": "lives_subcategoria_v1",
+   "url": "https://kick.com/api/v1/subcategories/league-of-legends/livestreams?limit=50",
+   "status": 404,
+   "type": "application/json",
+   "amostra": "{\n    \"message\": \"\"\n}"
+  },
+  {
+   "tag": "clipes_categoria_v2",
+   "url": "https://kick.com/api/v2/categories/league-of-legends/clips?sort=view&time=day",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[{\"id\":\"clip_01M7JJ62Z89GC00J50XPMVKDYF\",\"livestream_id\":\"138190772\",\"category_id\":\"5\",\"channel_id\":26060800,\"user_id\":28245026,\"title\":\"Knight Online A\\u00e7\\u0131klama\",\"clip_url\":\"https:\\/\\/clips.kick.com\\/clips\\/72\\/clip_01M7JJ62Z89GC00J50XPMVKDYF\\/playlist.m3u8\",\"thumbnail_url\":\"https:",
+   "chaves": [
+    "clips",
+    "nextCursor"
+   ]
+  },
+  {
+   "tag": "clipes_v2_filtro",
+   "url": "https://kick.com/api/v2/clips?sort=view&time=day&category=league-of-legends",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[{\"id\":\"clip_01M7KECPEW9P1Y63PHKN8KZ0W8\",\"livestream_id\":\"137883983\",\"category_id\":\"15\",\"channel_id\":668,\"user_id\":106988558,\"title\":\",tymdgndnntynty\",\"clip_url\":\"https:\\/\\/clips.kick.com\\/clips\\/70\\/clip_01M7KECPEW9P1Y63PHKN8KZ0W8\\/playlist.m3u8\",\"thumbnail_url\":\"https:\\/\\/clips.kick.com\\/",
+   "chaves": [
+    "clips",
+    "nextCursor"
+   ]
+  },
+  {
+   "tag": "clipes_canal",
+   "url": "https://kick.com/api/v2/channels/rybsonlol/clips?sort=view&time=day",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[{\"id\":\"clip_01M7K63BDBMWJTA27DSXHS27B3\",\"livestream_id\":\"138190497\",\"category_id\":\"15\",\"channel_id\":29658059,\"user_id\":251146,\"title\":\"przesada ze strony wyg\\u0142odzonego \",\"clip_url\":\"https:\\/\\/clips.kick.com\\/clips\\/c0\\/clip_01M7K63BDBMWJTA27DSXHS27B3\\/playlist.m3u8\",\"thumbnail_url\":\"ht",
+   "chaves": [
+    "clips",
+    "nextCursor"
+   ]
+  },
+  {
+   "tag": "clipes_canal",
+   "url": "https://kick.com/api/v2/channels/atzzuk1/clips?sort=view&time=day",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[]}",
+   "chaves": [
+    "clips"
+   ]
+  },
+  {
+   "tag": "clipes_canal",
+   "url": "https://kick.com/api/v2/channels/elmiillor/clips?sort=view&time=day",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[{\"id\":\"clip_01M7N9YGM9759DR6PVKXTV7GWG\",\"livestream_id\":\"138373438\",\"category_id\":\"5\",\"channel_id\":6100370,\"user_id\":31768276,\"title\":\"el puto gafas\",\"clip_url\":\"https:\\/\\/clips.kick.com\\/clips\\/97\\/clip_01M7N9YGM9759DR6PVKXTV7GWG\\/playlist.m3u8\",\"thumbnail_url\":\"https:\\/\\/clips.kick.com\\/",
+   "chaves": [
+    "clips"
+   ]
+  },
+  {
+   "tag": "clipes_canal_",
+   "url": "https://kick.com/api/v2/channels/hazretiyasuo/clips?sort=view&time=day",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[{\"id\":\"clip_01M7NEJX21Y0E2ABSCWSZKED38\",\"livestream_id\":\"138401050\",\"category_id\":\"5\",\"channel_id\":25420043,\"user_id\":124508843,\"title\":\"bipbup\",\"clip_url\":\"https:\\/\\/clips.kick.com\\/clips\\/82\\/clip_01M7NEJX21Y0E2ABSCWSZKED38\\/playlist.m3u8\",\"thumbnail_url\":\"https:\\/\\/clips.kick.com\\/clips",
+   "chaves": [
+    "clips",
+    "nextCursor"
+   ]
+  },
+  {
+   "tag": "clipes_canal_",
+   "url": "https://kick.com/api/v2/channels/coscu/clips?sort=view&time=day",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[{\"id\":\"clip_01M7NCBEZ9QMANN5EV0MP1ZPKQ\",\"livestream_id\":\"138387900\",\"category_id\":\"5\",\"channel_id\":28398381,\"user_id\":1557554,\"title\":\"no me pego\",\"clip_url\":\"https:\\/\\/clips.kick.com\\/clips\\/e6\\/clip_01M7NCBEZ9QMANN5EV0MP1ZPKQ\\/playlist.m3u8\",\"thumbnail_url\":\"https:\\/\\/clips.kick.com\\/cli",
+   "chaves": [
+    "clips"
+   ]
+  },
+  {
+   "tag": "clipes_canal_",
+   "url": "https://kick.com/api/v2/channels/lukisteve/clips?sort=view&time=day",
+   "status": 200,
+   "type": "application/json",
+   "amostra": "{\"clips\":[{\"id\":\"clip_01M7K7B5DSBV2F43E2F2FZ9XVK\",\"livestream_id\":\"138217570\",\"category_id\":\"5\",\"channel_id\":24980887,\"user_id\":33785130,\"title\":\"skutki picia holy\",\"clip_url\":\"https:\\/\\/clips.kick.com\\/clips\\/e0\\/clip_01M7K7B5DSBV2F43E2F2FZ9XVK\\/playlist.m3u8\",\"thumbnail_url\":\"https:\\/\\/clips.kick.",
+   "chaves": [
+    "clips"
+   ]
+  }
+ ]
+}
