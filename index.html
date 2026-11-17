@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Curadoria de Clipes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js"></script>
+<style>
+/* layout: barra de filtros fixa no topo, grade de cartões de clipe, barra de aprovação fixa embaixo */
+:root{
+  --bg:#0E0B16; --panel:#17121F; --line:#2B2338; --fg:#F1ECF8; --mut:#A79CBA;
+  --twitch:#9146FF; --kick:#53FC18; --ok:#3DDC97; --no:#FF5C7A; --acc:#FFC857;
+  --fd:"Space Grotesk",system-ui,sans-serif; --fb:Inter,system-ui,sans-serif;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 var(--fb)}
+.wrap{max-width:1200px;margin:0 auto;padding:20px max(16px,env(safe-area-inset-right)) 120px max(16px,env(safe-area-inset-left))}
+header{display:flex;flex-direction:column;gap:6px;margin-bottom:16px}
+h1{font:700 clamp(26px,5vw,38px)/1.1 var(--fd);margin:0}
+.sub{color:var(--mut);margin:0}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0;display:flex;flex-wrap:wrap;gap:8px;border-bottom:1px solid var(--line);margin-bottom:16px}
+.chip{border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:999px;padding:7px 14px;font:500 14px var(--fb);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.chip:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.sep{width:1px;background:var(--line);margin:0 4px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.card.ok{border-color:var(--ok)} .card.no{opacity:.45}
+.media{position:relative;aspect-ratio:16/9;background:#000;max-width:100%}
+.media img,.media iframe,.media video{position:absolute;inset:0;width:100%;height:100%;border:0;object-fit:cover}
+.play{position:absolute;inset:0;display:grid;place-items:center;background:linear-gradient(transparent 55%,rgba(0,0,0,.6));border:0;cursor:pointer;color:#fff}
+.play span{width:58px;height:58px;border-radius:50%;background:rgba(0,0,0,.6);display:grid;place-items:center;font-size:22px;border:2px solid #fff}
+.badge{position:absolute;top:8px;left:8px;font:700 11px var(--fd);letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:6px;color:#000}
+.badge.twitch{background:var(--twitch);color:#fff}.badge.kick{background:var(--kick)}
+.dur{position:absolute;bottom:8px;right:8px;background:rgba(0,0,0,.75);font:600 12px var(--fb);padding:2px 6px;border-radius:4px;font-variant-numeric:tabular-nums}
+.info{padding:12px 14px;display:flex;flex-direction:column;gap:4px;flex:1;min-width:0}
+.who{font:700 16px var(--fd)}
+.ttl{color:var(--fg);overflow-wrap:anywhere}
+.meta{color:var(--mut);font-size:13px;font-variant-numeric:tabular-nums}
+.acts{display:flex;gap:8px;padding:0 14px 14px}
+.acts button{flex:1;border-radius:8px;padding:9px;font:600 14px var(--fb);cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--fg)}
+.acts .a[aria-pressed="true"]{background:var(--ok);border-color:var(--ok);color:#06150E}
+.acts .r[aria-pressed="true"]{background:var(--no);border-color:var(--no);color:#1A0509}
+.acts a{align-self:center;color:var(--mut);font-size:13px}
+.foot{position:fixed;left:0;right:0;bottom:0;background:var(--panel);border-top:1px solid var(--line);padding:12px max(16px,env(safe-area-inset-right)) calc(12px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;z-index:6}
+.foot b{font:700 18px var(--fd);font-variant-numeric:tabular-nums}
+.send{background:var(--acc);color:#1A1200;border:0;border-radius:10px;padding:12px 18px;font:700 15px var(--fd);cursor:pointer}
+.send:disabled{opacity:.4;cursor:default}
+.empty{color:var(--mut);padding:40px 0;text-align:center}
+details{color:var(--mut);font-size:13px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 id="h">Curadoria de clipes</h1>
+    <p class="sub" id="sub">Carregando a última varredura…</p>
+    <details id="log"><summary>Detalhes da varredura</summary><pre id="logtxt" style="white-space:pre-wrap"></pre></details>
+  </header>
+  <div class="bar" role="toolbar" aria-label="Filtros">
+    <button class="chip" data-f="plat" data-v="all" aria-pressed="true">Todas</button>
+    <button class="chip" data-f="plat" data-v="twitch" aria-pressed="false">Twitch</button>
+    <button class="chip" data-f="plat" data-v="kick" aria-pressed="false">Kick</button>
+    <span class="sep"></span>
+    <button class="chip" data-f="st" data-v="pend" aria-pressed="true">Pendentes</button>
+    <button class="chip" data-f="st" data-v="ok" aria-pressed="false">Aprovados</button>
+    <button class="chip" data-f="st" data-v="no" aria-pressed="false">Recusados</button>
+    <button class="chip" data-f="st" data-v="all" aria-pressed="false">Todos</button>
+    <span class="sep"></span>
+    <button class="chip" data-f="ord" data-v="views" aria-pressed="true">Mais vistos</button>
+    <button class="chip" data-f="ord" data-v="new" aria-pressed="false">Mais recentes</button>
+  </div>
+  <main class="grid" id="grid"></main>
+  <p class="empty" id="empty" hidden>Nenhum clipe neste filtro.</p>
+</div>
+<div class="foot">
+  <div><b id="cnt">0 aprovados</b> <span class="meta" id="mins"></span></div>
+  <button class="send" id="send" disabled>Enviar aprovação</button>
+</div>
+<script>
+const REPO = "Jigor1/clipes-bot";
+const f = {plat:"all", st:"pend", ord:"views"};
+let data = {clips:[]}, marks = {};
+try { marks = JSON.parse(localStorage.getItem("marks") || "{}"); } catch(e) {}
+const save = () => { try { localStorage.setItem("marks", JSON.stringify(marks)); } catch(e) {} };
+const brt = iso => iso ? new Date(iso).toLocaleString("pt-BR",{timeZone:"America/Sao_Paulo",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : "";
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function player(c, box){
+  box.innerHTML = "";
+  if (c.platform === "twitch") {
+    const fr = document.createElement("iframe");
+    fr.src = `https://clips.twitch.tv/embed?clip=${encodeURIComponent(c.id)}&parent=${location.hostname}&autoplay=true`;
+    fr.allow = "autoplay; fullscreen"; fr.allowFullscreen = true; box.appendChild(fr); return;
+  }
+  const v = document.createElement("video"); v.controls = true; v.autoplay = true; v.playsInline = true;
+  box.appendChild(v);
+  const src = c.video_url || "";
+  if (src.includes(".m3u8") && window.Hls && Hls.isSupported()) { const h = new Hls(); h.loadSource(src); h.attachMedia(v); }
+  else v.src = src;
+}
+
+function render(){
+  const g = document.getElementById("grid"); g.innerHTML = "";
+  let list = data.clips.filter(c => f.plat === "all" || c.platform === f.plat)
+    .filter(c => f.st === "all" || (f.st === "pend" ? !marks[c.id] : marks[c.id] === f.st));
+  list.sort(f.ord === "views" ? (a,b) => b.view_count - a.view_count : (a,b) => (b.created_at||"").localeCompare(a.created_at||""));
+  document.getElementById("empty").hidden = list.length > 0;
+  for (const c of list) {
+    const el = document.createElement("article");
+    el.className = "card" + (marks[c.id] === "ok" ? " ok" : marks[c.id] === "no" ? " no" : "");
+    el.innerHTML = `
+      <div class="media">
+        ${c.thumbnail_url ? `<img src="${esc(c.thumbnail_url)}" alt="" loading="lazy">` : ""}
+        <button class="play" aria-label="Assistir clipe de ${esc(c.broadcaster_name)}"><span>▶</span></button>
+        <span class="badge ${c.platform}">${c.platform}</span>
+        <span class="dur">${Math.round(c.duration||0)} s</span>
+      </div>
+      <div class="info">
+        <div class="who">${esc(c.broadcaster_name)}</div>
+        <div class="ttl">${esc(c.title)}</div>
+        <div class="meta">${(c.view_count||0).toLocaleString("pt-BR")} views · ${brt(c.created_at)} · idioma: ${esc(c.lang_src||"")}</div>
+      </div>
+      <div class="acts">
+        <button class="a" aria-pressed="${marks[c.id]==="ok"}">✓ Aprovar</button>
+        <button class="r" aria-pressed="${marks[c.id]==="no"}">✕ Recusar</button>
+        <a href="${esc(c.url)}" target="_blank" rel="noopener">abrir</a>
+      </div>`;
+    el.querySelector(".play").onclick = () => player(c, el.querySelector(".media"));
+    el.querySelector(".a").onclick = () => { marks[c.id] = marks[c.id] === "ok" ? undefined : "ok"; save(); render(); };
+    el.querySelector(".r").onclick = () => { marks[c.id] = marks[c.id] === "no" ? undefined : "no"; save(); render(); };
+    g.appendChild(el);
+  }
+  const ok = data.clips.filter(c => marks[c.id] === "ok");
+  document.getElementById("cnt").textContent = `${ok.length} aprovado${ok.length===1?"":"s"}`;
+  document.getElementById("mins").textContent = ok.length ? `· ${(ok.reduce((s,c)=>s+(c.duration||0),0)/60).toFixed(1)} min de vídeo` : "";
+  document.getElementById("send").disabled = !ok.length;
+}
+
+document.querySelectorAll(".chip").forEach(b => b.onclick = () => {
+  f[b.dataset.f] = b.dataset.v;
+  document.querySelectorAll(`.chip[data-f="${b.dataset.f}"]`).forEach(x => x.setAttribute("aria-pressed", x === b));
+  render();
+});
+document.getElementById("send").onclick = () => {
+  const ok = data.clips.filter(c => marks[c.id] === "ok");
+  const body = "Clipes aprovados (na ordem do vídeo):\n\n" + ok.map((c,i) => `${i+1}. ${c.id} | ${c.broadcaster_name} | ${c.url}`).join("\n");
+  const title = `Aprovação ${data.categoria} ${new Date().toLocaleDateString("pt-BR")}`;
+  window.open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}&labels=aprovacao`, "_blank");
+};
+
+fetch("reports/curadoria.json?t=" + Date.now()).then(r => r.json()).then(j => {
+  data = j;
+  const tw = j.clips.filter(c => c.platform === "twitch").length, kk = j.clips.length - tw;
+  document.getElementById("h").textContent = `Curadoria · ${j.categoria}`;
+  document.getElementById("sub").textContent = `Varredura de ${brt(j.quando)} (Brasília), últimas ${j.janela_h} h · ${tw} clipes da Twitch e ${kk} da Kick, só em português.`;
+  document.getElementById("logtxt").textContent = (j.log||[]).join("\n");
+  render();
+}).catch(() => { document.getElementById("sub").textContent = "Ainda não há varredura publicada. Ela aparece aqui depois da primeira rodada do robô."; });
+</script>
+</body>
+</html>

@@ -21,6 +21,8 @@ from pathlib import Path
 
 import requests
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "state"
 REPORTS = ROOT / "reports"
@@ -167,7 +169,8 @@ def main():
     used = load("used.json", {"clips": {}})
     blocked = set(x.lower() for x in load("blocklist.json", {"streamers": []})["streamers"])
     langcache = load("streamer_lang.json", {})
-    pools = {lg: load(f"pool_{lg}.json", {"clips": []}) for lg in CFG["languages"]}
+    slug = re.sub(r"[^a-z0-9]+", "-", game["name"].lower()).strip("-")
+    pools = {lg: load(f"pool_{slug}_{lg}.json", {"clips": []}) for lg in CFG["languages"]}
 
     # 1) topo da categoria
     clips = tw.paged("/clips", {"game_id": gid, "started_at": iso(start), "ended_at": iso(NOW), "first": 100},
@@ -278,7 +281,7 @@ def main():
         pool.sort(key=lambda p: -p["score"])
         stats[lg] = {"novos": added, "no_banco": len(pool),
                      "minutos_no_banco": round(sum(p["duration"] for p in pool) / 60, 1)}
-        save(f"pool_{lg}.json", pools[lg])
+        save(f"pool_{slug}_{lg}.json", pools[lg])
 
     save("streamer_lang.json", langcache)
     if not (STATE / "used.json").exists():
@@ -286,7 +289,23 @@ def main():
     if not (STATE / "blocklist.json").exists():
         save("blocklist.json", {"streamers": []})
 
+    # Kick (teste): clipes da mesma categoria
+    kick_clips, kick_log = [], []
+    if CFG.get("kick", {}).get("enabled"):
+        try:
+            import kick
+            kick_clips, kick_log = kick.run(CFG["kick"], start, used, blocked, langcache, detect_lang)
+        except Exception as e:  # nunca derruba a varredura da Twitch
+            kick_log.append(f"kick: erro {type(e).__name__}: {e}"[:300])
+        save("streamer_lang.json", langcache)
+    log += kick_log
+
     REPORTS.mkdir(exist_ok=True)
+    cur = [dict(p, platform="twitch") for p in pools.get("pt", {"clips": []})["clips"]] + kick_clips
+    cur.sort(key=lambda c: -c.get("view_count", 0))
+    (REPORTS / "curadoria.json").write_text(json.dumps(
+        {"quando": iso(NOW), "categoria": game["name"], "janela_h": CFG["window_hours"], "log": log,
+         "clips": cur[:200]}, ensure_ascii=False, indent=1))
     rep = {"quando": iso(NOW), "categoria": game["name"], "game_id": gid, "janela_h": CFG["window_hours"],
            "log": log, "stats": stats, "api_calls": tw.calls,
            "top": {lg: pools[lg]["clips"][:40] for lg in CFG["languages"]}}

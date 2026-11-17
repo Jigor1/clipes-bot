@@ -1,5 +1,5 @@
 {
-  "game_name": "Grand Theft Auto V",
+  "game_name": "League of Legends",
   "window_hours": 24,
   "category_pages": 8,
   "pt_stream_pages": 5,
@@ -8,12 +8,18 @@
     "pt"
   ],
   "min_views": {
-    "pt": 15
+    "pt": 30
   },
   "min_duration": 8,
   "max_per_broadcaster_per_scan": 4,
   "audio_checks_per_scan": 40,
   "pool_days": 7,
   "whisper_model": "base",
-  "per_broadcaster_clips": 30
+  "per_broadcaster_clips": 30,
+  "kick": {
+    "enabled": true,
+    "category_slug": "league-of-legends",
+    "max_channels": 40,
+    "min_views": 10
+  }
 }
