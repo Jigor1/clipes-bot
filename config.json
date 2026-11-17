@@ -1,14 +1,16 @@
 {
-  "game_name": "League of Legends",
+  "game_name": "Grand Theft Auto VI",
   "window_hours": 24,
   "category_pages": 8,
   "pt_stream_pages": 5,
   "max_pt_broadcasters": 150,
   "languages": [
-    "pt"
+    "pt",
+    "en"
   ],
   "min_views": {
-    "pt": 15
+    "pt": 15,
+    "en": 100
   },
   "min_duration": 8,
   "max_per_broadcaster_per_scan": 4,

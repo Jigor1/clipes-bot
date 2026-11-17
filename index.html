@@ -66,6 +66,10 @@ details{color:var(--mut);font-size:13px}
     <button class="chip" data-f="plat" data-v="twitch" aria-pressed="false">Twitch</button>
     <button class="chip" data-f="plat" data-v="kick" aria-pressed="false">Kick</button>
     <span class="sep"></span>
+    <button class="chip" data-f="lang" data-v="all" aria-pressed="true">PT + EN</button>
+    <button class="chip" data-f="lang" data-v="pt" aria-pressed="false">Português</button>
+    <button class="chip" data-f="lang" data-v="en" aria-pressed="false">Inglês</button>
+    <span class="sep"></span>
     <button class="chip" data-f="st" data-v="pend" aria-pressed="true">Pendentes</button>
     <button class="chip" data-f="st" data-v="ok" aria-pressed="false">Aprovados</button>
     <button class="chip" data-f="st" data-v="no" aria-pressed="false">Recusados</button>
@@ -83,7 +87,7 @@ details{color:var(--mut);font-size:13px}
 </div>
 <script>
 const REPO = "Jigor1/clipes-bot";
-const f = {plat:"all", st:"pend", ord:"views"};
+const f = {plat:"all", lang:"all", st:"pend", ord:"views"};
 let data = {clips:[]}, marks = {};
 try { marks = JSON.parse(localStorage.getItem("marks") || "{}"); } catch(e) {}
 const save = () => { try { localStorage.setItem("marks", JSON.stringify(marks)); } catch(e) {} };
@@ -107,6 +111,7 @@ function player(c, box){
 function render(){
   const g = document.getElementById("grid"); g.innerHTML = "";
   let list = data.clips.filter(c => f.plat === "all" || c.platform === f.plat)
+    .filter(c => f.lang === "all" || c.lang === f.lang)
     .filter(c => f.st === "all" || (f.st === "pend" ? !marks[c.id] : marks[c.id] === f.st));
   list.sort(f.ord === "views" ? (a,b) => b.view_count - a.view_count : (a,b) => (b.created_at||"").localeCompare(a.created_at||""));
   document.getElementById("empty").hidden = list.length > 0;
@@ -117,7 +122,7 @@ function render(){
       <div class="media">
         ${c.thumbnail_url ? `<img src="${esc(c.thumbnail_url)}" alt="" loading="lazy">` : ""}
         <button class="play" aria-label="Assistir clipe de ${esc(c.broadcaster_name)}"><span>▶</span></button>
-        <span class="badge ${c.platform}">${c.platform}</span>
+        <span class="badge ${c.platform}">${c.platform} · ${esc((c.lang||"").toUpperCase())}</span>
         <span class="dur">${Math.round(c.duration||0)} s</span>
       </div>
       <div class="info">
@@ -157,7 +162,7 @@ fetch("reports/curadoria.json?t=" + Date.now()).then(r => r.json()).then(j => {
   data = j;
   const tw = j.clips.filter(c => c.platform === "twitch").length, kk = j.clips.length - tw;
   document.getElementById("h").textContent = `Curadoria · ${j.categoria}`;
-  document.getElementById("sub").textContent = `Varredura de ${brt(j.quando)} (Brasília), últimas ${j.janela_h} h · ${tw} clipes da Twitch e ${kk} da Kick, só em português.`;
+  document.getElementById("sub").textContent = `Varredura de ${brt(j.quando)} (Brasília), últimas ${j.janela_h} h · ${tw} clipes da Twitch e ${kk} da Kick (${j.clips.filter(c=>c.lang==="pt").length} em português, ${j.clips.filter(c=>c.lang==="en").length} em inglês).`;
   document.getElementById("logtxt").textContent = (j.log||[]).join("\n");
   render();
 }).catch(() => { document.getElementById("sub").textContent = "Ainda não há varredura publicada. Ela aparece aqui depois da primeira rodada do robô."; });

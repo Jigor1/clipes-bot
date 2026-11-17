@@ -309,13 +309,13 @@ def main():
     REPORTS.mkdir(exist_ok=True)
     # clipes da Kick coletados pelo navegador (state/kick_pool.json), mantidos ate pool_days
     kcut = iso(NOW - timedelta(days=CFG["pool_days"]))
-    kick_saved = [k for k in load("kick_pool.json", {"clips": []})["clips"]
-                  if k.get("created_at", "") > kcut and k["id"] not in used["clips"]
+    kick_saved = [k for k in load("kick_pool.json", {"clips": []})["clips"] if k.get("category", slug) == slug
+                  and k.get("created_at", "") > kcut and k["id"] not in used["clips"]
                   and k["broadcaster_name"].lower() not in blocked]
-    cur = [dict(p, platform="twitch") for p in pools.get("pt", {"clips": []})["clips"]] + kick_clips + kick_saved
+    cur = [dict(p, platform="twitch") for lg in CFG["languages"] for p in pools[lg]["clips"]] + kick_clips + kick_saved
     cur.sort(key=lambda c: -c.get("view_count", 0))
     (REPORTS / "curadoria.json").write_text(json.dumps(
-        {"quando": iso(NOW), "categoria": game["name"], "janela_h": CFG["window_hours"], "log": log,
+        {"quando": iso(NOW), "categoria": game["name"], "idiomas": CFG["languages"], "janela_h": CFG["window_hours"], "log": log,
          "clips": cur[:200]}, ensure_ascii=False, indent=1))
     rep = {"quando": iso(NOW), "categoria": game["name"], "game_id": gid, "janela_h": CFG["window_hours"],
            "log": log, "stats": stats, "api_calls": tw.calls,
