@@ -307,7 +307,12 @@ def main():
     log += kick_log
 
     REPORTS.mkdir(exist_ok=True)
-    cur = [dict(p, platform="twitch") for p in pools.get("pt", {"clips": []})["clips"]] + kick_clips
+    # clipes da Kick coletados pelo navegador (state/kick_pool.json), mantidos ate pool_days
+    kcut = iso(NOW - timedelta(days=CFG["pool_days"]))
+    kick_saved = [k for k in load("kick_pool.json", {"clips": []})["clips"]
+                  if k.get("created_at", "") > kcut and k["id"] not in used["clips"]
+                  and k["broadcaster_name"].lower() not in blocked]
+    cur = [dict(p, platform="twitch") for p in pools.get("pt", {"clips": []})["clips"]] + kick_clips + kick_saved
     cur.sort(key=lambda c: -c.get("view_count", 0))
     (REPORTS / "curadoria.json").write_text(json.dumps(
         {"quando": iso(NOW), "categoria": game["name"], "janela_h": CFG["window_hours"], "log": log,
