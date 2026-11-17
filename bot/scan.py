@@ -179,9 +179,12 @@ def main():
 
     # 2) lives BR ao vivo -> streamers conhecidos
     streams = tw.paged("/streams", {"game_id": gid, "language": "pt", "first": 100}, CFG["pt_stream_pages"])
+    live_now = []
     for s in streams:
         c = langcache.setdefault(s["user_id"], {"name": s["user_login"]})
         c.update({"lang": "pt", "src": c.get("src", "tag"), "last_seen": iso(NOW), "viewers": s["viewer_count"]})
+        c["games"] = sorted(set(c.get("games", [])) | {gid})
+        live_now.append(s["user_id"])
     # lives sem tag pt mas com titulo em portugues
     others = tw.paged("/streams", {"game_id": gid, "first": 100}, 3)
     hinted = 0
@@ -194,10 +197,13 @@ def main():
             hinted += 1
     log.append(f"lives pt ao vivo: {len(streams)}; suspeitos pelo titulo: {hinted}")
 
-    pt_ids = sorted(
-        [k for k, v in langcache.items() if v.get("lang") in ("pt", "?pt")],
+    # prioridade: quem esta ao vivo agora nesta categoria; depois quem ja foi visto nela
+    seen_here = sorted(
+        [k for k, v in langcache.items() if v.get("lang") in ("pt", "?pt") and gid in v.get("games", [])
+         and k not in live_now],
         key=lambda k: -langcache[k].get("viewers", 0),
-    )[: CFG["max_pt_broadcasters"]]
+    )
+    pt_ids = (live_now + seen_here)[: CFG["max_pt_broadcasters"]]
     seen = {c["id"] for c in clips}
     extra = 0
     for bid in pt_ids:

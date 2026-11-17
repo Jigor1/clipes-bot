@@ -8,7 +8,7 @@
     "pt"
   ],
   "min_views": {
-    "pt": 30
+    "pt": 15
   },
   "min_duration": 8,
   "max_per_broadcaster_per_scan": 4,
@@ -17,7 +17,7 @@
   "whisper_model": "base",
   "per_broadcaster_clips": 30,
   "kick": {
-    "enabled": true,
+    "enabled": false,
     "category_slug": "league-of-legends",
     "max_channels": 40,
     "min_views": 10
