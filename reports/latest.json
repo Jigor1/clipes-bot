@@ -1,24 +1,24 @@
 {
- "quando": "2026-11-21T19:11:47Z",
+ "quando": "2026-11-22T06:42:18Z",
  "categoria": "Grand Theft Auto VI",
  "game_id": "1867279146",
  "janela_h": 24,
  "log": [
-  "categoria: 793 clipes",
-  "lives pt ao vivo: 498; suspeitos pelo titulo: 3",
-  "clipes extras de streamers BR: 1219",
-  "idioma checado pelo audio: 3 clipes"
+  "categoria: 798 clipes",
+  "lives pt ao vivo: 486; suspeitos pelo titulo: 4",
+  "clipes extras de streamers BR: 703",
+  "idioma checado pelo audio: 9 clipes"
  ],
  "stats": {
   "pt": {
-   "novos": 80,
-   "no_banco": 617,
-   "minutos_no_banco": 362.4
+   "novos": 37,
+   "no_banco": 654,
+   "minutos_no_banco": 386.9
   },
   "en": {
-   "novos": 226,
-   "no_banco": 1187,
-   "minutos_no_banco": 728.8
+   "novos": 179,
+   "no_banco": 1366,
+   "minutos_no_banco": 837.9
   }
  },
  "api_calls": 167,
@@ -384,6 +384,26 @@
     "vod_offset": 15648
    },
    {
+    "broadcaster_id": "38244180",
+    "broadcaster_name": "alanzoka",
+    "created_at": "2026-11-21T17:55:01Z",
+    "creator_name": "Joaogsz",
+    "duration": 30,
+    "found_at": "2026-11-21T19:11:47Z",
+    "id": "DepressedCooperativeDonutArsonNoSexy-Vdaj3HTOaezwrbtm",
+    "is_featured": false,
+    "lang": "pt",
+    "lang_src": "streamer(tag)",
+    "language": "pt",
+    "score": 1885.1,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ad17a537-9750-4f8c-99bd-76eb69199017/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "MEU DEUS O BAGOS",
+    "url": "https://www.twitch.tv/alanzoka/clip/DepressedCooperativeDonutArsonNoSexy-Vdaj3HTOaezwrbtm",
+    "video_id": "2936272189",
+    "view_count": 1341,
+    "vod_offset": 3389
+   },
+   {
     "broadcaster_id": "512137332",
     "broadcaster_name": "Bisteconee",
     "created_at": "2026-11-18T11:22:14Z",
@@ -524,6 +544,26 @@
     "vod_offset": 7959
    },
    {
+    "id": "ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
+    "url": "https://www.twitch.tv/hiltonerika/clip/ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
+    "broadcaster_id": "1612266956",
+    "broadcaster_name": "hiltonerika",
+    "creator_name": "murilojs1",
+    "video_id": "2936487576",
+    "vod_offset": 5299,
+    "title": "Voltei.vamos  ver se vai",
+    "view_count": 804,
+    "created_at": "2026-11-21T21:22:10Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fca4fe84-2365-4ab4-af6b-a8eb3329e641/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "duration": 30,
+    "language": "pt",
+    "lang": "pt",
+    "lang_src": "tag",
+    "score": 1229.6,
+    "is_featured": false,
+    "found_at": "2026-11-22T06:42:18Z"
+   },
+   {
     "broadcaster_id": "28579002",
     "broadcaster_name": "Cellbit",
     "created_at": "2026-11-18T13:41:44Z",
@@ -562,6 +602,26 @@
     "video_id": "2933657204",
     "view_count": 839,
     "vod_offset": 5970
+   },
+   {
+    "id": "AcceptableVainAirGuitarTBCheesePull-FWqoeF8mW6mGIecL",
+    "url": "https://www.twitch.tv/alanzoka/clip/AcceptableVainAirGuitarTBCheesePull-FWqoeF8mW6mGIecL",
+    "broadcaster_id": "38244180",
+    "broadcaster_name": "alanzoka",
+    "creator_name": "Joaogsz",
+    "video_id": "2936272189",
+    "vod_offset": 15152,
+    "title": "1 BILHAO",
+    "view_count": 652,
+    "created_at": "2026-11-21T20:53:27Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/548c5b85-eee8-4625-9b2c-299993645f01/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "duration": 30,
+    "language": "pt",
+    "lang": "pt",
+    "lang_src": "streamer(tag)",
+    "score": 983.1,
+    "is_featured": false,
+    "found_at": "2026-11-22T06:42:18Z"
    },
    {
     "broadcaster_id": "531177917",
@@ -759,64 +819,6 @@
     "video_id": "2933131138",
     "view_count": 617,
     "vod_offset": 3907
-   },
-   {
-    "broadcaster_id": "187352927",
-    "broadcaster_name": "MeikodRJ",
-    "created_at": "2026-11-18T13:33:30Z",
-    "creator_name": "SaandrinRJ",
-    "duration": 30,
-    "found_at": "2026-11-18T20:28:21Z",
-    "id": "RoundVenomousWerewolfArgieB8-GKaBH1Twkv-Ls-IA",
-    "is_featured": false,
-    "lang": "pt",
-    "lang_src": "streamer(tag)",
-    "language": "pt",
-    "score": 746.7,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b2e249ec-ddca-4816-b672-5e95e409d364/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "wowwwwww",
-    "url": "https://www.twitch.tv/meikodrj/clip/RoundVenomousWerewolfArgieB8-GKaBH1Twkv-Ls-IA",
-    "video_id": "",
-    "view_count": 573
-   },
-   {
-    "broadcaster_id": "58393005",
-    "broadcaster_name": "calango",
-    "created_at": "2026-11-18T17:45:56Z",
-    "creator_name": "orpheun",
-    "duration": 30,
-    "found_at": "2026-11-19T07:20:58Z",
-    "id": "EntertainingCleverSpindleFloof-hCOy9xyYKTdEJ0N-",
-    "is_featured": false,
-    "lang": "pt",
-    "lang_src": "tag",
-    "language": "pt",
-    "score": 743.8,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/dd8883da-79ed-4ba1-a7ae-e3b13c70786f/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "kkkkkkk",
-    "url": "https://www.twitch.tv/calango/clip/EntertainingCleverSpindleFloof-hCOy9xyYKTdEJ0N-",
-    "video_id": "2932202970",
-    "view_count": 537,
-    "vod_offset": 26005
-   },
-   {
-    "broadcaster_id": "471175257",
-    "broadcaster_name": "Facada",
-    "created_at": "2026-11-18T18:05:42Z",
-    "creator_name": "overtakeiwnl",
-    "duration": 60,
-    "found_at": "2026-11-18T20:28:21Z",
-    "id": "DependableMuddyTarsierKreygasm-ix5CvJzc4ZlbFL5d",
-    "is_featured": false,
-    "lang": "pt",
-    "lang_src": "streamer(tag)",
-    "language": "pt",
-    "score": 689.7,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8b914521-075a-4b01-88ad-7ffa265ab231/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "GTA6",
-    "url": "https://www.twitch.tv/facada/clip/DependableMuddyTarsierKreygasm-ix5CvJzc4ZlbFL5d",
-    "video_id": "",
-    "view_count": 495
    }
   ],
   "en": [
@@ -1297,6 +1299,26 @@
     "vod_offset": 16439
    },
    {
+    "broadcaster_id": "267160288",
+    "broadcaster_name": "caseoh_",
+    "created_at": "2026-11-21T13:47:39Z",
+    "creator_name": "barelybushy",
+    "duration": 60,
+    "found_at": "2026-11-21T19:11:47Z",
+    "id": "OddSweetToadMVGame-GtoXLBw9qz8XcLCg",
+    "is_featured": false,
+    "lang": "en",
+    "lang_src": "tag",
+    "language": "en",
+    "score": 15742.8,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7f3cc055-b64a-4607-9a75-8b17ef75562b/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "kyle 1",
+    "url": "https://www.twitch.tv/caseoh_/clip/OddSweetToadMVGame-GtoXLBw9qz8XcLCg",
+    "video_id": "2935283335",
+    "view_count": 11951,
+    "vod_offset": 11583
+   },
+   {
     "broadcaster_id": "1019733647",
     "broadcaster_name": "Marlon",
     "created_at": "2026-11-18T20:31:33Z",
@@ -1593,25 +1615,6 @@
     "video_id": "2933227596",
     "view_count": 7898,
     "vod_offset": 23119
-   },
-   {
-    "broadcaster_id": "267160288",
-    "broadcaster_name": "caseoh_",
-    "created_at": "2026-11-19T21:18:48Z",
-    "creator_name": "Texbirds",
-    "duration": 30,
-    "found_at": "2026-11-20T07:13:43Z",
-    "id": "VainCourteousKaleBabyRage-06rqGkLgi3OzfREJ",
-    "is_featured": false,
-    "lang": "en",
-    "lang_src": "tag",
-    "language": "en",
-    "score": 9976.0,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a9ef586f-9b4f-4101-9b8e-e63351f37705/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "Heroic case",
-    "url": "https://www.twitch.tv/caseoh_/clip/VainCourteousKaleBabyRage-06rqGkLgi3OzfREJ",
-    "video_id": "",
-    "view_count": 8037
    }
   ]
  }
