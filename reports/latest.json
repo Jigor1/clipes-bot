@@ -1,24 +1,24 @@
 {
- "quando": "2026-11-22T06:42:18Z",
+ "quando": "2026-11-22T19:34:16Z",
  "categoria": "Grand Theft Auto VI",
  "game_id": "1867279146",
  "janela_h": 24,
  "log": [
-  "categoria: 798 clipes",
-  "lives pt ao vivo: 486; suspeitos pelo titulo: 4",
-  "clipes extras de streamers BR: 703",
-  "idioma checado pelo audio: 9 clipes"
+  "categoria: 797 clipes",
+  "lives pt ao vivo: 499; suspeitos pelo titulo: 2",
+  "clipes extras de streamers BR: 1034",
+  "idioma checado pelo audio: 6 clipes"
  ],
  "stats": {
   "pt": {
-   "novos": 37,
-   "no_banco": 654,
-   "minutos_no_banco": 386.9
+   "novos": 77,
+   "no_banco": 731,
+   "minutos_no_banco": 433.7
   },
   "en": {
-   "novos": 179,
-   "no_banco": 1366,
-   "minutos_no_banco": 837.9
+   "novos": 167,
+   "no_banco": 1533,
+   "minutos_no_banco": 939.3
   }
  },
  "api_calls": 167,
@@ -364,6 +364,26 @@
     "vod_offset": 5012
    },
    {
+    "broadcaster_id": "1612266956",
+    "broadcaster_name": "hiltonerika",
+    "created_at": "2026-11-21T21:22:10Z",
+    "creator_name": "murilojs1",
+    "duration": 30,
+    "found_at": "2026-11-22T06:42:18Z",
+    "id": "ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
+    "is_featured": false,
+    "lang": "pt",
+    "lang_src": "tag",
+    "language": "pt",
+    "score": 2142.7,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fca4fe84-2365-4ab4-af6b-a8eb3329e641/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "Voltei.vamos  ver se vai",
+    "url": "https://www.twitch.tv/hiltonerika/clip/ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
+    "video_id": "2936487576",
+    "view_count": 1717,
+    "vod_offset": 5299
+   },
+   {
     "broadcaster_id": "577880510",
     "broadcaster_name": "TvgNobrega",
     "created_at": "2026-11-18T15:55:51Z",
@@ -466,6 +486,26 @@
    {
     "broadcaster_id": "38244180",
     "broadcaster_name": "alanzoka",
+    "created_at": "2026-11-21T20:53:27Z",
+    "creator_name": "Joaogsz",
+    "duration": 30,
+    "found_at": "2026-11-22T06:42:18Z",
+    "id": "AcceptableVainAirGuitarTBCheesePull-FWqoeF8mW6mGIecL",
+    "is_featured": false,
+    "lang": "pt",
+    "lang_src": "streamer(tag)",
+    "language": "pt",
+    "score": 1493.0,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/548c5b85-eee8-4625-9b2c-299993645f01/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "1 BILHAO",
+    "url": "https://www.twitch.tv/alanzoka/clip/AcceptableVainAirGuitarTBCheesePull-FWqoeF8mW6mGIecL",
+    "video_id": "2936272189",
+    "view_count": 1201,
+    "vod_offset": 15152
+   },
+   {
+    "broadcaster_id": "38244180",
+    "broadcaster_name": "alanzoka",
     "created_at": "2026-11-20T19:46:20Z",
     "creator_name": "manoarnold",
     "duration": 29.9,
@@ -544,26 +584,6 @@
     "vod_offset": 7959
    },
    {
-    "id": "ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
-    "url": "https://www.twitch.tv/hiltonerika/clip/ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
-    "broadcaster_id": "1612266956",
-    "broadcaster_name": "hiltonerika",
-    "creator_name": "murilojs1",
-    "video_id": "2936487576",
-    "vod_offset": 5299,
-    "title": "Voltei.vamos  ver se vai",
-    "view_count": 804,
-    "created_at": "2026-11-21T21:22:10Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fca4fe84-2365-4ab4-af6b-a8eb3329e641/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "duration": 30,
-    "language": "pt",
-    "lang": "pt",
-    "lang_src": "tag",
-    "score": 1229.6,
-    "is_featured": false,
-    "found_at": "2026-11-22T06:42:18Z"
-   },
-   {
     "broadcaster_id": "28579002",
     "broadcaster_name": "Cellbit",
     "created_at": "2026-11-18T13:41:44Z",
@@ -602,26 +622,6 @@
     "video_id": "2933657204",
     "view_count": 839,
     "vod_offset": 5970
-   },
-   {
-    "id": "AcceptableVainAirGuitarTBCheesePull-FWqoeF8mW6mGIecL",
-    "url": "https://www.twitch.tv/alanzoka/clip/AcceptableVainAirGuitarTBCheesePull-FWqoeF8mW6mGIecL",
-    "broadcaster_id": "38244180",
-    "broadcaster_name": "alanzoka",
-    "creator_name": "Joaogsz",
-    "video_id": "2936272189",
-    "vod_offset": 15152,
-    "title": "1 BILHAO",
-    "view_count": 652,
-    "created_at": "2026-11-21T20:53:27Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/548c5b85-eee8-4625-9b2c-299993645f01/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "duration": 30,
-    "language": "pt",
-    "lang": "pt",
-    "lang_src": "streamer(tag)",
-    "score": 983.1,
-    "is_featured": false,
-    "found_at": "2026-11-22T06:42:18Z"
    },
    {
     "broadcaster_id": "531177917",
@@ -724,6 +724,26 @@
    {
     "broadcaster_id": "28579002",
     "broadcaster_name": "Cellbit",
+    "created_at": "2026-11-21T21:33:31Z",
+    "creator_name": "Gugu_Lanches",
+    "duration": 60,
+    "found_at": "2026-11-22T06:42:18Z",
+    "id": "DeafThoughtfulSardineDansGame-kjWAPtDuyzDQ5YHi",
+    "is_featured": false,
+    "lang": "pt",
+    "lang_src": "streamer(tag)",
+    "language": "pt",
+    "score": 926.2,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/46d3d25b-1e02-45b5-ab4b-12c32ed109af/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "Cellbit enfraqueceu a membrana em Vice City",
+    "url": "https://www.twitch.tv/cellbit/clip/DeafThoughtfulSardineDansGame-kjWAPtDuyzDQ5YHi",
+    "video_id": "2936467645",
+    "view_count": 741,
+    "vod_offset": 7006
+   },
+   {
+    "broadcaster_id": "28579002",
+    "broadcaster_name": "Cellbit",
     "created_at": "2026-11-18T16:01:22Z",
     "creator_name": "polly4g",
     "duration": 30,
@@ -799,26 +819,6 @@
     "url": "https://www.twitch.tv/surskity11/clip/SaltyMoralCardDendiFace-rtVrdHb-Nb6JtRwF",
     "video_id": "",
     "view_count": 667
-   },
-   {
-    "broadcaster_id": "181743137",
-    "broadcaster_name": "XAROLA_",
-    "created_at": "2026-11-19T04:12:47Z",
-    "creator_name": "manucavalcanti",
-    "duration": 18.8,
-    "found_at": "2026-11-19T20:31:35Z",
-    "id": "DeafSpikyStrawberryDoubleRainbow-B8uFyuCz_unrOCx7",
-    "is_featured": false,
-    "lang": "pt",
-    "lang_src": "streamer(tag)",
-    "language": "pt",
-    "score": 819.1,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7472adc2-8348-4908-9ca5-ff848e95f1dc/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "shape",
-    "url": "https://www.twitch.tv/xarola_/clip/DeafSpikyStrawberryDoubleRainbow-B8uFyuCz_unrOCx7",
-    "video_id": "2933131138",
-    "view_count": 617,
-    "vod_offset": 3907
    }
   ],
   "en": [
@@ -1181,6 +1181,26 @@
     "vod_offset": 6847
    },
    {
+    "broadcaster_id": "40934651",
+    "broadcaster_name": "Ludwig",
+    "created_at": "2026-11-21T21:48:03Z",
+    "creator_name": "atomic__jazz",
+    "duration": 40.3,
+    "found_at": "2026-11-22T06:42:18Z",
+    "id": "EnticingFrailTortoiseCharlieBitMe-gljPQtpIAF3An235",
+    "is_featured": false,
+    "lang": "en",
+    "lang_src": "tag",
+    "language": "en",
+    "score": 19835.8,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/668943fc-3b79-45a3-a401-4c9c6d5b61ab/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "Lud after he got his higlights D:",
+    "url": "https://www.twitch.tv/ludwig/clip/EnticingFrailTortoiseCharlieBitMe-gljPQtpIAF3An235",
+    "video_id": "2936392772",
+    "view_count": 15838,
+    "vod_offset": 11673
+   },
+   {
     "broadcaster_id": "267160288",
     "broadcaster_name": "caseoh_",
     "created_at": "2026-11-20T14:15:12Z",
@@ -1518,6 +1538,26 @@
     "vod_offset": 5210
    },
    {
+    "broadcaster_id": "40934651",
+    "broadcaster_name": "Ludwig",
+    "created_at": "2026-11-21T22:12:20Z",
+    "creator_name": "Zasserr",
+    "duration": 60,
+    "found_at": "2026-11-22T06:42:18Z",
+    "id": "HeadstrongMiniatureMeerkatChefFrank-nbtWhXGIzTSMRThf",
+    "is_featured": false,
+    "lang": "en",
+    "lang_src": "tag",
+    "language": "en",
+    "score": 10727.9,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/44da236d-7514-4809-ab0f-c7e2a110d324/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "accumulating insurance fraud",
+    "url": "https://www.twitch.tv/ludwig/clip/HeadstrongMiniatureMeerkatChefFrank-nbtWhXGIzTSMRThf",
+    "video_id": "2936392772",
+    "view_count": 8536,
+    "vod_offset": 12806
+   },
+   {
     "broadcaster_id": "71092938",
     "broadcaster_name": "xQc",
     "created_at": "2026-11-18T11:18:51Z",
@@ -1575,46 +1615,6 @@
     "video_id": "2932205344",
     "view_count": 7747,
     "vod_offset": 17677
-   },
-   {
-    "broadcaster_id": "43683025",
-    "broadcaster_name": "ohnePixel",
-    "created_at": "2026-11-19T12:07:14Z",
-    "creator_name": "tristamger",
-    "duration": 11.9,
-    "found_at": "2026-11-20T07:13:43Z",
-    "id": "BlindingGleamingDonkeyOpieOP-LMiLWd2l1xgmvbEM",
-    "is_featured": false,
-    "lang": "en",
-    "lang_src": "tag",
-    "language": "en",
-    "score": 10155.8,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/752ea75a-1d46-4391-9759-41909765d0e4/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "Dad of the year",
-    "url": "https://www.twitch.tv/ohnepixel/clip/BlindingGleamingDonkeyOpieOP-LMiLWd2l1xgmvbEM",
-    "video_id": "2933599748",
-    "view_count": 7908,
-    "vod_offset": 584
-   },
-   {
-    "broadcaster_id": "23936415",
-    "broadcaster_name": "Jerma985",
-    "created_at": "2026-11-19T11:12:47Z",
-    "creator_name": "VRJosh",
-    "duration": 33.1,
-    "found_at": "2026-11-19T20:31:35Z",
-    "id": "FrozenPluckyPistachioBleedPurple-D6ZTqqv8nSMcLUy2",
-    "is_featured": false,
-    "lang": "en",
-    "lang_src": "tag",
-    "language": "en",
-    "score": 10050.5,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6c1218cb-2840-4b5a-94cc-50842ae945bb/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "We have to go to the top",
-    "url": "https://www.twitch.tv/jerma985/clip/FrozenPluckyPistachioBleedPurple-D6ZTqqv8nSMcLUy2",
-    "video_id": "2933227596",
-    "view_count": 7898,
-    "vod_offset": 23119
    }
   ]
  }
