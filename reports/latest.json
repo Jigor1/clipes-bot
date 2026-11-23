@@ -1,24 +1,24 @@
 {
- "quando": "2026-11-22T19:34:16Z",
+ "quando": "2026-11-23T07:31:21Z",
  "categoria": "Grand Theft Auto VI",
  "game_id": "1867279146",
  "janela_h": 24,
  "log": [
-  "categoria: 797 clipes",
-  "lives pt ao vivo: 499; suspeitos pelo titulo: 2",
-  "clipes extras de streamers BR: 1034",
-  "idioma checado pelo audio: 6 clipes"
+  "categoria: 796 clipes",
+  "lives pt ao vivo: 486; suspeitos pelo titulo: 1",
+  "clipes extras de streamers BR: 414",
+  "idioma checado pelo audio: 5 clipes"
  ],
  "stats": {
   "pt": {
-   "novos": 77,
-   "no_banco": 731,
-   "minutos_no_banco": 433.7
+   "novos": 7,
+   "no_banco": 738,
+   "minutos_no_banco": 437.5
   },
   "en": {
-   "novos": 167,
-   "no_banco": 1533,
-   "minutos_no_banco": 939.3
+   "novos": 139,
+   "no_banco": 1672,
+   "minutos_no_banco": 1018.6
   }
  },
  "api_calls": 167,
@@ -1221,6 +1221,26 @@
     "vod_offset": 3957
    },
    {
+    "id": "OutstandingFairCobblerPraiseIt-Oz-2zy8DKMNXaovr",
+    "url": "https://www.twitch.tv/drupy876/clip/OutstandingFairCobblerPraiseIt-Oz-2zy8DKMNXaovr",
+    "broadcaster_id": "1535137683",
+    "broadcaster_name": "drupy876",
+    "creator_name": "drupy876",
+    "video_id": "2936703252",
+    "vod_offset": 4133,
+    "title": "push ping ping crazy B****😭😭😂",
+    "view_count": 10628,
+    "created_at": "2026-11-23T00:51:39Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a149c11a-92c3-4031-bada-86af839e3785/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "duration": 30,
+    "language": "en",
+    "lang": "en",
+    "lang_src": "tag",
+    "score": 17990.0,
+    "is_featured": false,
+    "found_at": "2026-11-23T07:31:21Z"
+   },
+   {
     "broadcaster_id": "267160288",
     "broadcaster_name": "caseoh_",
     "created_at": "2026-11-21T00:34:23Z",
@@ -1595,26 +1615,6 @@
     "url": "https://www.twitch.tv/king_wolfe_/clip/SavageEphemeralSwanPMSTwin-CdV0_Uj1h7SAGkLW",
     "video_id": "",
     "view_count": 7810
-   },
-   {
-    "broadcaster_id": "57225136",
-    "broadcaster_name": "BrycexD",
-    "created_at": "2026-11-18T15:31:50Z",
-    "creator_name": "alxcooks",
-    "duration": 30,
-    "found_at": "2026-11-18T20:28:21Z",
-    "id": "CallousInspiringRuffSuperVinlin-ZORXxsZrAvTCjx7k",
-    "is_featured": false,
-    "lang": "en",
-    "lang_src": "tag",
-    "language": "en",
-    "score": 10355.6,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e84f4af4-6a81-40f6-b59e-a6abe6442284/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "audacity auda ticker",
-    "url": "https://www.twitch.tv/brycexd/clip/CallousInspiringRuffSuperVinlin-ZORXxsZrAvTCjx7k",
-    "video_id": "2932205344",
-    "view_count": 7747,
-    "vod_offset": 17677
    }
   ]
  }
