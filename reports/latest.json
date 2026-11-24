@@ -1,24 +1,24 @@
 {
- "quando": "2026-11-24T09:50:14Z",
+ "quando": "2026-11-24T22:23:25Z",
  "categoria": "Grand Theft Auto VI",
  "game_id": "1867279146",
  "janela_h": 24,
  "log": [
-  "categoria: 794 clipes",
-  "lives pt ao vivo: 320; suspeitos pelo titulo: 3",
-  "clipes extras de streamers BR: 278",
-  "idioma checado pelo audio: 3 clipes"
+  "categoria: 792 clipes",
+  "lives pt ao vivo: 491; suspeitos pelo titulo: 3",
+  "clipes extras de streamers BR: 779",
+  "idioma checado pelo audio: 5 clipes"
  ],
  "stats": {
   "pt": {
-   "novos": 17,
-   "no_banco": 829,
-   "minutos_no_banco": 490.1
+   "novos": 55,
+   "no_banco": 880,
+   "minutos_no_banco": 520.3
   },
   "en": {
-   "novos": 103,
-   "no_banco": 1897,
-   "minutos_no_banco": 1154.0
+   "novos": 114,
+   "no_banco": 2011,
+   "minutos_no_banco": 1218.4
   }
  },
  "api_calls": 167,
@@ -444,6 +444,26 @@
     "vod_offset": 3241
    },
    {
+    "broadcaster_id": "38244180",
+    "broadcaster_name": "alanzoka",
+    "created_at": "2026-11-23T23:59:42Z",
+    "creator_name": "Joaogsz",
+    "duration": 53.7,
+    "found_at": "2026-11-24T09:50:14Z",
+    "id": "DaintyDreamyWalrusOpieOP-mVob-LlM8ej7QB7-",
+    "is_featured": false,
+    "lang": "pt",
+    "lang_src": "streamer(tag)",
+    "language": "pt",
+    "score": 1728.1,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3986ced4-f018-4da1-bf01-3b9a7e2f077a/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "COITADA DA LUCIA",
+    "url": "https://www.twitch.tv/alanzoka/clip/DaintyDreamyWalrusOpieOP-mVob-LlM8ej7QB7-",
+    "video_id": "2938467977",
+    "view_count": 1387,
+    "vod_offset": 26312
+   },
+   {
     "broadcaster_id": "577880510",
     "broadcaster_name": "TvgNobrega",
     "created_at": "2026-11-19T21:10:28Z",
@@ -604,26 +624,6 @@
     "vod_offset": 13060
    },
    {
-    "id": "DaintyDreamyWalrusOpieOP-mVob-LlM8ej7QB7-",
-    "url": "https://www.twitch.tv/alanzoka/clip/DaintyDreamyWalrusOpieOP-mVob-LlM8ej7QB7-",
-    "broadcaster_id": "38244180",
-    "broadcaster_name": "alanzoka",
-    "creator_name": "Joaogsz",
-    "video_id": "2938467977",
-    "vod_offset": 26312,
-    "title": "COITADA DA LUCIA",
-    "view_count": 758,
-    "created_at": "2026-11-23T23:59:42Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3986ced4-f018-4da1-bf01-3b9a7e2f077a/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "duration": 53.7,
-    "language": "pt",
-    "lang": "pt",
-    "lang_src": "streamer(tag)",
-    "score": 1142.0,
-    "is_featured": false,
-    "found_at": "2026-11-24T09:50:14Z"
-   },
-   {
     "broadcaster_id": "38244180",
     "broadcaster_name": "alanzoka",
     "created_at": "2026-11-19T14:53:17Z",
@@ -644,24 +644,24 @@
     "vod_offset": 5970
    },
    {
-    "id": "PiercingMiniatureGaurWoofer-2wmOPC6C9phlGT6V",
-    "url": "https://www.twitch.tv/alanzoka/clip/PiercingMiniatureGaurWoofer-2wmOPC6C9phlGT6V",
     "broadcaster_id": "38244180",
     "broadcaster_name": "alanzoka",
-    "creator_name": "Sub0",
-    "video_id": "2938467977",
-    "vod_offset": 8415,
-    "title": "E quiser explosão",
-    "view_count": 721,
     "created_at": "2026-11-23T19:05:49Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a3f78a19-8c1d-414a-b1b9-065f974178a2/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "creator_name": "Sub0",
     "duration": 16.5,
-    "language": "pt",
+    "found_at": "2026-11-24T09:50:14Z",
+    "id": "PiercingMiniatureGaurWoofer-2wmOPC6C9phlGT6V",
+    "is_featured": false,
     "lang": "pt",
     "lang_src": "streamer(tag)",
+    "language": "pt",
     "score": 979.4,
-    "is_featured": false,
-    "found_at": "2026-11-24T09:50:14Z"
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a3f78a19-8c1d-414a-b1b9-065f974178a2/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "E quiser explosão",
+    "url": "https://www.twitch.tv/alanzoka/clip/PiercingMiniatureGaurWoofer-2wmOPC6C9phlGT6V",
+    "video_id": "2938467977",
+    "view_count": 721,
+    "vod_offset": 8415
    },
    {
     "broadcaster_id": "531177917",
@@ -883,24 +883,24 @@
     "view_count": 54578
    },
    {
-    "id": "RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
-    "url": "https://www.twitch.tv/tminnzy/clip/RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
     "broadcaster_id": "136192832",
     "broadcaster_name": "Tminnzy",
-    "creator_name": "homelyx",
-    "video_id": "2935827889",
-    "vod_offset": 35080,
-    "title": "bro",
-    "view_count": 44486,
     "created_at": "2026-11-23T15:01:45Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6422e1f1-4168-44f7-880c-a8028557be7a/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "creator_name": "homelyx",
     "duration": 30,
-    "language": "en",
+    "found_at": "2026-11-24T09:50:14Z",
+    "id": "RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
+    "is_featured": false,
     "lang": "en",
     "lang_src": "tag",
+    "language": "en",
     "score": 57313.4,
-    "is_featured": false,
-    "found_at": "2026-11-24T09:50:14Z"
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6422e1f1-4168-44f7-880c-a8028557be7a/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "bro",
+    "url": "https://www.twitch.tv/tminnzy/clip/RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
+    "video_id": "2935827889",
+    "view_count": 44486,
+    "vod_offset": 35080
    },
    {
     "broadcaster_id": "43683025",
@@ -1322,6 +1322,26 @@
     "vod_offset": 18016
    },
    {
+    "broadcaster_id": "23528098",
+    "broadcaster_name": "AvoidingThePuddle",
+    "created_at": "2026-11-23T23:26:34Z",
+    "creator_name": "deeznutschatter",
+    "duration": 13.4,
+    "found_at": "2026-11-23T23:51:10Z",
+    "id": "EmpathicLitigiousTurtleShadyLulu-kKjUS1498zVbxMOw",
+    "is_featured": false,
+    "lang": "en",
+    "lang_src": "tag",
+    "language": "en",
+    "score": 19369.2,
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/49209605-5784-40d7-a3fd-3fa1c8cde039/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "title": "god damnnn",
+    "url": "https://www.twitch.tv/avoidingthepuddle/clip/EmpathicLitigiousTurtleShadyLulu-kKjUS1498zVbxMOw",
+    "video_id": "2938781725",
+    "view_count": 15614,
+    "vod_offset": 3738
+   },
+   {
     "broadcaster_id": "267160288",
     "broadcaster_name": "caseoh_",
     "created_at": "2026-11-21T00:34:23Z",
@@ -1598,26 +1618,6 @@
     "video_id": "2934180634",
     "view_count": 9724,
     "vod_offset": 12792
-   },
-   {
-    "broadcaster_id": "43683025",
-    "broadcaster_name": "ohnePixel",
-    "created_at": "2026-11-19T12:50:24Z",
-    "creator_name": "NESKy1",
-    "duration": 26.1,
-    "found_at": "2026-11-20T07:13:43Z",
-    "id": "AggressiveTardyDragonHotPokket--9_zAHpPX48qQTS-",
-    "is_featured": false,
-    "lang": "en",
-    "lang_src": "tag",
-    "language": "en",
-    "score": 12570.1,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/548d2074-f305-4093-a23d-8fee7024f40c/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "Bro Want the ban So bad!! Hahahha",
-    "url": "https://www.twitch.tv/ohnepixel/clip/AggressiveTardyDragonHotPokket--9_zAHpPX48qQTS-",
-    "video_id": "2933599748",
-    "view_count": 9712,
-    "vod_offset": 3142
    }
   ]
  }
