@@ -1,5 +1,5 @@
 {
- "quando": "2026-11-24T22:23:25Z",
+ "quando": "2026-11-25T08:27:38Z",
  "categoria": "Grand Theft Auto VI",
  "idiomas": [
   "pt",
@@ -7,10 +7,10 @@
  ],
  "janela_h": 24,
  "log": [
-  "categoria: 792 clipes",
-  "lives pt ao vivo: 491; suspeitos pelo titulo: 3",
-  "clipes extras de streamers BR: 779",
-  "idioma checado pelo audio: 5 clipes"
+  "categoria: 789 clipes",
+  "lives pt ao vivo: 381; suspeitos pelo titulo: 5",
+  "clipes extras de streamers BR: 225",
+  "idioma checado pelo audio: 2 clipes"
  ],
  "clips": [
   {
@@ -975,6 +975,27 @@
    "platform": "twitch"
   },
   {
+   "broadcaster_id": "641972806",
+   "broadcaster_name": "KaiCenat",
+   "created_at": "2026-11-24T20:37:40Z",
+   "creator_name": "FeelsSunnyMan",
+   "duration": 19.4,
+   "found_at": "2026-11-24T22:23:25Z",
+   "id": "MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh",
+   "is_featured": false,
+   "lang": "en",
+   "lang_src": "streamer(audio)",
+   "language": "en",
+   "score": 11729.5,
+   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e181a243-0556-4b1d-b919-59c362a7529e/landscape/thumb/thumb-0000000000-480x272.jpg",
+   "title": "lol",
+   "url": "https://www.twitch.tv/kaicenat/clip/MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh",
+   "video_id": "2939504732",
+   "view_count": 8181,
+   "vod_offset": 10835,
+   "platform": "twitch"
+  },
+  {
    "broadcaster_id": "267160288",
    "broadcaster_name": "caseoh_",
    "created_at": "2026-11-19T21:18:48Z",
@@ -1054,6 +1075,27 @@
    "url": "https://www.twitch.tv/king_wolfe_/clip/SavageEphemeralSwanPMSTwin-CdV0_Uj1h7SAGkLW",
    "video_id": "",
    "view_count": 7810,
+   "platform": "twitch"
+  },
+  {
+   "broadcaster_id": "267160288",
+   "broadcaster_name": "caseoh_",
+   "created_at": "2026-11-24T14:30:10Z",
+   "creator_name": "barelybushy",
+   "duration": 60,
+   "found_at": "2026-11-24T22:23:25Z",
+   "id": "LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd",
+   "is_featured": false,
+   "lang": "en",
+   "lang_src": "tag",
+   "language": "en",
+   "score": 10138.4,
+   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a6dae75-962e-405d-9baa-8f20279f9cba/landscape/thumb/thumb-0000000000-480x272.jpg",
+   "title": "slight scratch",
+   "url": "https://www.twitch.tv/caseoh_/clip/LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd",
+   "video_id": "2938655753",
+   "view_count": 7795,
+   "vod_offset": 10009,
    "platform": "twitch"
   },
   {
@@ -2161,6 +2203,27 @@
    "platform": "twitch"
   },
   {
+   "id": "RelievedTolerantMetalPunchTrees-1SrUQSJUwg6PKugm",
+   "url": "https://www.twitch.tv/lilypichu/clip/RelievedTolerantMetalPunchTrees-1SrUQSJUwg6PKugm",
+   "broadcaster_id": "31106024",
+   "broadcaster_name": "lilypichu",
+   "creator_name": "StaticSn0w",
+   "video_id": "2939767299",
+   "vod_offset": 19028,
+   "title": "Hold Square",
+   "view_count": 3987,
+   "created_at": "2026-11-25T03:43:58Z",
+   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ec894e35-190c-4784-bb7c-8b2be5fb9ead/landscape/thumb/thumb-0000000000-480x272.jpg",
+   "duration": 27.3,
+   "language": "en",
+   "lang": "en",
+   "lang_src": "tag",
+   "score": 7542.6,
+   "is_featured": false,
+   "found_at": "2026-11-25T08:27:38Z",
+   "platform": "twitch"
+  },
+  {
    "broadcaster_id": "84316241",
    "broadcaster_name": "PENTA",
    "created_at": "2026-11-19T23:51:38Z",
@@ -2828,26 +2891,6 @@
    "platform": "twitch"
   },
   {
-   "broadcaster_id": "850714315",
-   "broadcaster_name": "joao01doturno",
-   "created_at": "2026-11-18T03:09:13Z",
-   "creator_name": "felps14805",
-   "duration": 34.6,
-   "found_at": "2026-11-18T07:23:34Z",
-   "id": "ColdHilariousWombatDxCat-RJOhI_-hZQ_snbrt",
-   "is_featured": false,
-   "lang": "pt",
-   "lang_src": "tag",
-   "language": "pt",
-   "score": 4467.8,
-   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2af0a9f3-0761-4ece-8433-131f167565cb/landscape/thumb/thumb-0000000000-480x272.jpg",
-   "title": "Fast & Furious",
-   "url": "https://www.twitch.tv/joao01doturno/clip/ColdHilariousWombatDxCat-RJOhI_-hZQ_snbrt",
-   "video_id": "",
-   "view_count": 3409,
-   "platform": "twitch"
-  },
-  {
    "broadcaster_id": "23936415",
    "broadcaster_name": "Jerma985",
    "created_at": "2026-11-19T10:45:06Z",
@@ -2908,27 +2951,6 @@
    "video_id": "2932200023",
    "view_count": 3354,
    "vod_offset": 3172,
-   "platform": "twitch"
-  },
-  {
-   "id": "LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd",
-   "url": "https://www.twitch.tv/caseoh_/clip/LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd",
-   "broadcaster_id": "267160288",
-   "broadcaster_name": "caseoh_",
-   "creator_name": "barelybushy",
-   "video_id": "2938655753",
-   "vod_offset": 10009,
-   "title": "slight scratch",
-   "view_count": 3293,
-   "created_at": "2026-11-24T14:30:10Z",
-   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a6dae75-962e-405d-9baa-8f20279f9cba/landscape/thumb/thumb-0000000000-480x272.jpg",
-   "duration": 60,
-   "language": "en",
-   "lang": "en",
-   "lang_src": "tag",
-   "score": 5291.3,
-   "is_featured": false,
-   "found_at": "2026-11-24T22:23:25Z",
    "platform": "twitch"
   },
   {
@@ -3663,6 +3685,27 @@
    "platform": "twitch"
   },
   {
+   "id": "SpicyResourcefulInternTBTacoLeft-7894osLVrSzAswjm",
+   "url": "https://www.twitch.tv/dunc/clip/SpicyResourcefulInternTBTacoLeft-7894osLVrSzAswjm",
+   "broadcaster_id": "262236323",
+   "broadcaster_name": "Dunc",
+   "creator_name": "ScanXn",
+   "video_id": "2939073342",
+   "vod_offset": 20486,
+   "title": "Can't believe Dunc would do this to us",
+   "view_count": 2596,
+   "created_at": "2026-11-24T09:46:10Z",
+   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/162ebe01-625b-4b5f-8fa1-341e45d29296/landscape/thumb/thumb-0000000000-480x272.jpg",
+   "duration": 49.2,
+   "language": "en",
+   "lang": "en",
+   "lang_src": "tag",
+   "score": 3226.8,
+   "is_featured": false,
+   "found_at": "2026-11-25T08:27:38Z",
+   "platform": "twitch"
+  },
+  {
    "broadcaster_id": "23936415",
    "broadcaster_name": "Jerma985",
    "created_at": "2026-11-19T07:59:29Z",
@@ -4141,48 +4184,6 @@
    "video_id": "2932223155",
    "view_count": 2194,
    "vod_offset": 2425,
-   "platform": "twitch"
-  },
-  {
-   "broadcaster_id": "2261919",
-   "broadcaster_name": "CRREAM",
-   "created_at": "2026-11-21T06:42:01Z",
-   "creator_name": "Anubis_impera",
-   "duration": 34.9,
-   "found_at": "2026-11-22T06:42:18Z",
-   "id": "CloudyRichButterKeyboardCat-fgkufRSnkzNwCffq",
-   "is_featured": false,
-   "lang": "en",
-   "lang_src": "tag",
-   "language": "en",
-   "score": 2691.6,
-   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/17d06b97-12de-42d1-b4c3-2a01c77d6daa/landscape/thumb/thumb-0000000000-480x272.jpg",
-   "title": "Worst partner around!",
-   "url": "https://www.twitch.tv/crream/clip/CloudyRichButterKeyboardCat-fgkufRSnkzNwCffq",
-   "video_id": "2935508990",
-   "view_count": 2187,
-   "vod_offset": 25170,
-   "platform": "twitch"
-  },
-  {
-   "broadcaster_id": "641972806",
-   "broadcaster_name": "KaiCenat",
-   "created_at": "2026-11-22T01:10:14Z",
-   "creator_name": "toasteeboyj",
-   "duration": 39.8,
-   "found_at": "2026-11-22T06:42:18Z",
-   "id": "StylishFairChowderDoritosChip-SQ1GCE6-ymT6ih7l",
-   "is_featured": false,
-   "lang": "en",
-   "lang_src": "streamer(audio)",
-   "language": "en",
-   "score": 2825.0,
-   "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/80a7dd95-384f-4909-a1c1-e18772c8ec9b/landscape/thumb/thumb-0000000000-480x272.jpg",
-   "title": "type shit",
-   "url": "https://www.twitch.tv/kaicenat/clip/StylishFairChowderDoritosChip-SQ1GCE6-ymT6ih7l",
-   "video_id": "2936683310",
-   "view_count": 2183,
-   "vod_offset": 7574,
    "platform": "twitch"
   }
  ]

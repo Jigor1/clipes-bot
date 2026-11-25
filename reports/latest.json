@@ -1,24 +1,24 @@
 {
- "quando": "2026-11-24T22:23:25Z",
+ "quando": "2026-11-25T08:27:38Z",
  "categoria": "Grand Theft Auto VI",
  "game_id": "1867279146",
  "janela_h": 24,
  "log": [
-  "categoria: 792 clipes",
-  "lives pt ao vivo: 491; suspeitos pelo titulo: 3",
-  "clipes extras de streamers BR: 779",
-  "idioma checado pelo audio: 5 clipes"
+  "categoria: 789 clipes",
+  "lives pt ao vivo: 381; suspeitos pelo titulo: 5",
+  "clipes extras de streamers BR: 225",
+  "idioma checado pelo audio: 2 clipes"
  ],
  "stats": {
   "pt": {
-   "novos": 55,
-   "no_banco": 880,
-   "minutos_no_banco": 520.3
+   "novos": 21,
+   "no_banco": 898,
+   "minutos_no_banco": 531.7
   },
   "en": {
-   "novos": 114,
-   "no_banco": 2011,
-   "minutos_no_banco": 1218.4
+   "novos": 96,
+   "no_banco": 2105,
+   "minutos_no_banco": 1272.9
   }
  },
  "api_calls": 167,
@@ -163,25 +163,6 @@
     "video_id": "2932200023",
     "view_count": 3875,
     "vod_offset": 11506
-   },
-   {
-    "broadcaster_id": "850714315",
-    "broadcaster_name": "joao01doturno",
-    "created_at": "2026-11-18T03:09:13Z",
-    "creator_name": "felps14805",
-    "duration": 34.6,
-    "found_at": "2026-11-18T07:23:34Z",
-    "id": "ColdHilariousWombatDxCat-RJOhI_-hZQ_snbrt",
-    "is_featured": false,
-    "lang": "pt",
-    "lang_src": "tag",
-    "language": "pt",
-    "score": 4467.8,
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2af0a9f3-0761-4ece-8433-131f167565cb/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "title": "Fast & Furious",
-    "url": "https://www.twitch.tv/joao01doturno/clip/ColdHilariousWombatDxCat-RJOhI_-hZQ_snbrt",
-    "video_id": "",
-    "view_count": 3409
    },
    {
     "broadcaster_id": "38244180",
@@ -642,6 +623,26 @@
     "video_id": "2933657204",
     "view_count": 839,
     "vod_offset": 5970
+   },
+   {
+    "id": "SquareRoughBottleSmoocherZ--_CWHVGhg2a_jWg-",
+    "url": "https://www.twitch.tv/alanzoka/clip/SquareRoughBottleSmoocherZ--_CWHVGhg2a_jWg-",
+    "broadcaster_id": "38244180",
+    "broadcaster_name": "alanzoka",
+    "creator_name": "Isa_A_Dora_",
+    "video_id": "2939491300",
+    "vod_offset": 19522,
+    "title": "ai",
+    "view_count": 662,
+    "created_at": "2026-11-24T22:46:51Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/db76679c-6e24-4b4a-a944-f4a034c78321/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "duration": 11.8,
+    "language": "pt",
+    "lang": "pt",
+    "lang_src": "streamer(tag)",
+    "score": 1002.1,
+    "is_featured": false,
+    "found_at": "2026-11-25T08:27:38Z"
    },
    {
     "broadcaster_id": "38244180",
