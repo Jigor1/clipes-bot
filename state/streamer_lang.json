@@ -57,11 +57,14 @@
   "viewers": 3
  },
  "1001249000": {
+  "games": [
+   "1867279146"
+  ],
   "lang": "pt",
-  "last_seen": "2026-11-15T18:49:35Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "paiva177",
   "src": "tag",
-  "viewers": 54
+  "viewers": 10
  },
  "1001723496": {
   "lang": "pt",
@@ -168,15 +171,35 @@
   "src": "tag",
   "viewers": 2
  },
+ "1007741398": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "maduratinha",
+  "src": "tag",
+  "viewers": 4
+ },
+ "1007742777": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "cenoura_44",
+  "src": "tag",
+  "viewers": 2
+ },
  "100799639": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "sbuddypoke",
   "src": "tag",
-  "viewers": 15
+  "viewers": 10
  },
  "100867687": {
   "lang": "pt",
@@ -404,6 +427,16 @@
   "src": "tag",
   "viewers": 1
  },
+ "1015662601": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "esdrasdsl",
+  "src": "tag",
+  "viewers": 3
+ },
  "1015679007": {
   "games": [
    "1867279146"
@@ -413,6 +446,16 @@
   "name": "juliin_2",
   "src": "tag",
   "viewers": 6
+ },
+ "1015719414": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "eogleen",
+  "src": "tag",
+  "viewers": 2
  },
  "1015917886": {
   "games": [
@@ -446,10 +489,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "cappybarabara",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "1017587596": {
   "lang": "pt",
@@ -856,6 +899,16 @@
   "lang": "pt",
   "last_seen": "2026-11-15T06:25:01Z",
   "name": "vulgo_fioterp",
+  "src": "tag",
+  "viewers": 2
+ },
+ "103381589": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "enosmundo",
   "src": "tag",
   "viewers": 2
  },
@@ -1274,6 +1327,16 @@
   "src": "tag",
   "viewers": 2
  },
+ "105596505": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "johhnoliver",
+  "src": "tag",
+  "viewers": 3
+ },
  "1056170843": {
   "lang": "pt",
   "last_seen": "2026-11-14T17:58:46Z",
@@ -1375,6 +1438,12 @@
   "src": "tag",
   "viewers": 1
  },
+ "105827290": {
+  "lang": "outro",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "MirreyTv",
+  "src": "audio"
+ },
  "1058834746": {
   "games": [
    "1867279146"
@@ -1458,6 +1527,16 @@
   "name": "phemidio27",
   "src": "tag",
   "viewers": 1
+ },
+ "1061395612": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "meekzfn7",
+  "src": "tag",
+  "viewers": 3
  },
  "1061431132": {
   "lang": "pt",
@@ -1544,6 +1623,16 @@
   "src": "tag",
   "viewers": 4
  },
+ "106670244": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "traws_",
+  "src": "tag",
+  "viewers": 3
+ },
  "1067604760": {
   "games": [
    "21779"
@@ -1553,6 +1642,16 @@
   "name": "neekolmeia",
   "src": "tag",
   "viewers": 6
+ },
+ "106790541": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "kingdofarme",
+  "src": "tag",
+  "viewers": 3
  },
  "1068315356": {
   "lang": "pt",
@@ -1832,10 +1931,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "peetoxy",
   "src": "tag",
-  "viewers": 11
+  "viewers": 9
  },
  "1087828286": {
   "games": [
@@ -1872,10 +1971,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "andregamerpt2",
   "src": "tag",
-  "viewers": 6
+  "viewers": 9
  },
  "1091692923": {
   "lang": "pt",
@@ -2003,10 +2102,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "streamenin",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "109593617": {
   "games": [
@@ -2394,10 +2493,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "catarina4fun",
   "src": "tag",
-  "viewers": 318
+  "viewers": 272
  },
  "111040032": {
   "lang": "en",
@@ -2478,10 +2577,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "karatecaetanoo",
   "src": "tag",
-  "viewers": 20
+  "viewers": 22
  },
  "1118215827": {
   "games": [
@@ -2502,6 +2601,16 @@
   "name": "m1k3r__",
   "src": "tag",
   "viewers": 2
+ },
+ "1118802934": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "theu_gamerelite1",
+  "src": "tag",
+  "viewers": 4
  },
  "1118804494": {
   "games": [
@@ -2639,10 +2748,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "cebolinhofc_",
   "src": "tag",
-  "viewers": 62
+  "viewers": 78
  },
  "112769454": {
   "games": [
@@ -2862,6 +2971,16 @@
   "src": "tag",
   "viewers": 3
  },
+ "113781177": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "lunaneratw",
+  "src": "tag",
+  "viewers": 3
+ },
  "113821980": {
   "games": [
    "1867279146"
@@ -3070,10 +3189,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "otaldomelobr",
   "src": "tag",
-  "viewers": 9
+  "viewers": 8
  },
  "1152362584": {
   "games": [
@@ -3346,10 +3465,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "karadavis7",
   "src": "tag",
-  "viewers": 23
+  "viewers": 56
  },
  "1169250590": {
   "games": [
@@ -3394,10 +3513,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "seals311",
   "src": "tag",
-  "viewers": 154
+  "viewers": 239
  },
  "1172272703": {
   "lang": "pt",
@@ -3488,20 +3607,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "l4k3",
   "src": "tag",
-  "viewers": 8
+  "viewers": 6
  },
  "118026237": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T09:50:14Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "youngtrapped",
   "src": "tag",
-  "viewers": 0
+  "viewers": 3
  },
  "1180421084": {
   "lang": "pt",
@@ -3539,10 +3658,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "jeskaline",
   "src": "tag",
-  "viewers": 14
+  "viewers": 30
  },
  "118835703": {
   "games": [
@@ -3611,6 +3730,16 @@
   "src": "tag",
   "viewers": 52
  },
+ "119467722": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "ic3storm_tv",
+  "src": "tag",
+  "viewers": 3
+ },
  "1195298852": {
   "games": [
    "21779"
@@ -3630,6 +3759,16 @@
   "name": "ghiraldelll",
   "src": "tag",
   "viewers": 1
+ },
+ "119764983": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "pedrosmjorge",
+  "src": "tag",
+  "viewers": 2
  },
  "120235331": {
   "lang": "pt",
@@ -3777,7 +3916,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "neneutv",
   "src": "tag",
   "viewers": 1
@@ -3817,10 +3956,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "medusageek",
   "src": "tag",
-  "viewers": 43
+  "viewers": 83
  },
  "1211556830": {
   "games": [
@@ -3874,10 +4013,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "windoh",
   "src": "tag",
-  "viewers": 506
+  "viewers": 537
  },
  "1214834623": {
   "lang": "pt",
@@ -4200,10 +4339,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "neuu66",
   "src": "tag",
-  "viewers": 8
+  "viewers": 9
  },
  "1229146555": {
   "games": [
@@ -4347,7 +4486,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T07:01:01Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "resenhagames",
   "src": "tag",
   "viewers": 4
@@ -4614,10 +4753,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "samcariocarj",
   "src": "tag",
-  "viewers": 8
+  "viewers": 3
  },
  "125182907": {
   "games": [
@@ -4712,10 +4851,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "chrrua",
   "src": "tag",
-  "viewers": 15
+  "viewers": 11
  },
  "1259220416": {
   "games": [
@@ -4793,10 +4932,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "demuxa",
   "src": "tag",
-  "viewers": 428
+  "viewers": 385
  },
  "126457924": {
   "games": [
@@ -4863,10 +5002,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pedrobragamusic",
   "src": "tag",
-  "viewers": 92
+  "viewers": 111
  },
  "126828107": {
   "games": [
@@ -4883,10 +5022,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T07:01:01Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gab_yy_",
   "src": "tag",
-  "viewers": 3
+  "viewers": 5
  },
  "1268689230": {
   "games": [
@@ -4920,10 +5059,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "sayu_sakis",
   "src": "tag",
-  "viewers": 73
+  "viewers": 52
  },
  "1269990597": {
   "lang": "pt",
@@ -5092,10 +5231,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lirivini",
   "src": "tag",
-  "viewers": 195
+  "viewers": 171
  },
  "1277313224": {
   "games": [
@@ -5228,10 +5367,10 @@
    "21779"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "idrewzada",
   "src": "tag",
-  "viewers": 12
+  "viewers": 14
  },
  "1282473750": {
   "lang": "pt",
@@ -5436,10 +5575,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pasord",
   "src": "tag",
-  "viewers": 10
+  "viewers": 11
  },
  "1290249163": {
   "games": [
@@ -5526,20 +5665,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "oravelz",
   "src": "tag",
-  "viewers": 12
+  "viewers": 14
  },
  "1292977030": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "silenci0s4_",
   "src": "tag",
-  "viewers": 17
+  "viewers": 28
  },
  "1293036895": {
   "lang": "pt",
@@ -5651,10 +5790,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "brubuxi",
   "src": "tag",
-  "viewers": 143
+  "viewers": 115
  },
  "129739215": {
   "games": [
@@ -5920,7 +6059,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "stmilico",
   "src": "tag",
   "viewers": 3
@@ -5930,10 +6069,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "n4nofps",
   "src": "tag",
-  "viewers": 95
+  "viewers": 78
  },
  "1307335203": {
   "lang": "pt",
@@ -6101,10 +6240,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "imneeutro",
   "src": "tag",
-  "viewers": 9
+  "viewers": 7
  },
  "1313913538": {
   "lang": "pt",
@@ -6678,10 +6817,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "guiboladaao",
   "src": "tag",
-  "viewers": 4
+  "viewers": 5
  },
  "1339665036": {
   "games": [
@@ -7034,10 +7173,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "luupe0fc",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "134990827": {
   "games": [
@@ -7465,6 +7604,16 @@
   "src": "tag",
   "viewers": 55
  },
+ "136816062": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "thesweetlari",
+  "src": "tag",
+  "viewers": 3
+ },
  "136819660": {
   "games": [
    "21779"
@@ -7520,10 +7669,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "jiiseri",
   "src": "tag",
-  "viewers": 24
+  "viewers": 18
  },
  "136998351": {
   "games": [
@@ -7624,10 +7773,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "zinnitt_",
   "src": "tag",
-  "viewers": 8
+  "viewers": 5
  },
  "1373102200": {
   "games": [
@@ -7684,10 +7833,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "kahperez",
   "src": "tag",
-  "viewers": 22
+  "viewers": 21
  },
  "1373698025": {
   "games": [
@@ -7823,7 +7972,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "blackkollector",
   "src": "tag",
   "viewers": 11
@@ -8021,10 +8170,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xandegameraiz",
   "src": "tag",
-  "viewers": 53
+  "viewers": 52
  },
  "139064318": {
   "games": [
@@ -8110,7 +8259,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "canaldor1beiro",
   "src": "tag",
   "viewers": 3
@@ -8184,10 +8333,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bkzfps",
   "src": "tag",
-  "viewers": 16
+  "viewers": 13
  },
  "1396186302": {
   "games": [
@@ -8264,10 +8413,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "liza",
   "src": "tag",
-  "viewers": 20
+  "viewers": 24
  },
  "1398666002": {
   "lang": "pt",
@@ -8420,7 +8569,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T08:27:38Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "moreiragamerrr",
   "src": "tag",
   "viewers": 3
@@ -8484,10 +8633,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lipeimperadortv",
   "src": "tag",
-  "viewers": 169
+  "viewers": 196
  },
  "1407680881": {
   "lang": "pt",
@@ -8501,10 +8650,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "baiano",
   "src": "tag",
-  "viewers": 160
+  "viewers": 106
  },
  "140815312": {
   "games": [
@@ -8521,10 +8670,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "choke7",
   "src": "tag",
-  "viewers": 247
+  "viewers": 212
  },
  "140887182": {
   "games": [
@@ -8696,10 +8845,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "fablopss",
   "src": "tag",
-  "viewers": 13
+  "viewers": 14
  },
  "141779507": {
   "games": [
@@ -8945,10 +9094,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T20:10:56Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "dersin2k",
   "src": "tag",
-  "viewers": 421
+  "viewers": 360
  },
  "142868392": {
   "games": [
@@ -8975,10 +9124,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "rafahcoutinho",
   "src": "tag",
-  "viewers": 5
+  "viewers": 6
  },
  "1430268865": {
   "games": [
@@ -9090,10 +9239,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "laryssabitencourt",
   "src": "tag",
-  "viewers": 44
+  "viewers": 61
  },
  "143543507": {
   "games": [
@@ -9327,10 +9476,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pitocooo",
   "src": "tag",
-  "viewers": 19
+  "viewers": 15
  },
  "144281070": {
   "games": [
@@ -9364,10 +9513,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lnz3",
   "src": "tag",
-  "viewers": 29
+  "viewers": 32
  },
  "144402026": {
   "games": [
@@ -9441,10 +9590,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "horikamarth",
   "src": "tag",
-  "viewers": 66
+  "viewers": 71
  },
  "144531622": {
   "lang": "pt",
@@ -9553,15 +9702,25 @@
   "src": "tag",
   "viewers": 3
  },
+ "1448912590": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "ycoldtrunks",
+  "src": "tag",
+  "viewers": 5
+ },
  "1448928014": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "evanilson224723",
   "src": "tag",
-  "viewers": 89
+  "viewers": 87
  },
  "1449089392": {
   "games": [
@@ -9646,20 +9805,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "itsamemercury",
   "src": "tag",
-  "viewers": 59
+  "viewers": 55
  },
  "145108698": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "fanhorp",
   "src": "tag",
-  "viewers": 150
+  "viewers": 68
  },
  "1451185122": {
   "lang": "pt",
@@ -9683,7 +9842,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bihaaan",
   "src": "tag",
   "viewers": 6
@@ -9794,10 +9953,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T20:10:56Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "paddocksemfiltro",
   "src": "tag",
-  "viewers": 7
+  "viewers": 4
  },
  "1456654478": {
   "games": [
@@ -9874,7 +10033,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "fokss_",
   "src": "tag",
   "viewers": 4
@@ -9958,10 +10117,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "itsthaycs",
   "src": "tag",
-  "viewers": 53
+  "viewers": 67
  },
  "1462034501": {
   "games": [
@@ -9998,10 +10157,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "paidogreg",
   "src": "tag",
-  "viewers": 15
+  "viewers": 14
  },
  "146306562": {
   "lang": "pt",
@@ -10305,10 +10464,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lebongfps",
   "src": "tag",
-  "viewers": 3
+  "viewers": 1
  },
  "147549409": {
   "games": [
@@ -10319,6 +10478,16 @@
   "name": "xande",
   "src": "tag",
   "viewers": 47
+ },
+ "147556223": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "aiwe__",
+  "src": "tag",
+  "viewers": 4
  },
  "147561247": {
   "lang": "pt",
@@ -10395,6 +10564,16 @@
   "src": "tag",
   "viewers": 4
  },
+ "148003044": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "beatrizxavierjd",
+  "src": "tag",
+  "viewers": 23
+ },
  "148036044": {
   "games": [
    "1867279146"
@@ -10450,10 +10629,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "eunikogl",
   "src": "tag",
-  "viewers": 9
+  "viewers": 11
  },
  "148236501": {
   "games": [
@@ -10508,10 +10687,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "umiscaro",
   "src": "tag",
-  "viewers": 70
+  "viewers": 65
  },
  "1484898464": {
   "lang": "pt",
@@ -10873,6 +11052,16 @@
   "src": "tag",
   "viewers": 8
  },
+ "1499428355": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "enriscov1",
+  "src": "tag",
+  "viewers": 6
+ },
  "1500023225": {
   "lang": "pt",
   "last_seen": "2026-11-15T18:49:35Z",
@@ -11041,10 +11230,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T07:01:01Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "redqueenbr",
   "src": "tag",
-  "viewers": 6
+  "viewers": 12
  },
  "1507103055": {
   "games": [
@@ -11133,6 +11322,16 @@
   "src": "tag",
   "viewers": 0
  },
+ "1509368887": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "fvgonz_",
+  "src": "tag",
+  "viewers": 3
+ },
  "1509866916": {
   "lang": "pt",
   "last_seen": "2026-11-15T18:49:35Z",
@@ -11189,10 +11388,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "luuhz",
   "src": "tag",
-  "viewers": 27
+  "viewers": 15
  },
  "1511500021": {
   "lang": "pt",
@@ -11213,10 +11412,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "kayro1007",
   "src": "tag",
-  "viewers": 116
+  "viewers": 109
  },
  "1512408398": {
   "lang": "pt",
@@ -11394,6 +11593,16 @@
   "src": "tag",
   "viewers": 65
  },
+ "151670453": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "o_chinchila",
+  "src": "tag",
+  "viewers": 24
+ },
  "1516738266": {
   "games": [
    "1867279146"
@@ -11498,6 +11707,16 @@
   "name": "gabsz150",
   "src": "tag",
   "viewers": 1
+ },
+ "1517989657": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "jezz1392",
+  "src": "tag",
+  "viewers": 6
  },
  "151799186": {
   "lang": "pt",
@@ -11655,10 +11874,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "yesnando",
   "src": "tag",
-  "viewers": 18
+  "viewers": 16
  },
  "152140300": {
   "games": [
@@ -11695,7 +11914,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "onatnho",
   "src": "tag",
   "viewers": 4
@@ -11914,7 +12133,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-18T20:28:21Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lil_1984",
   "src": "tag",
   "viewers": 4
@@ -11956,15 +12175,25 @@
   "src": "tag",
   "viewers": 2
  },
+ "1527131000": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "opapaicareca",
+  "src": "tag",
+  "viewers": 3
+ },
  "152743963": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "staydownn1",
   "src": "tag",
-  "viewers": 24
+  "viewers": 27
  },
  "1527495654": {
   "games": [
@@ -12289,6 +12518,16 @@
   "src": "tag",
   "viewers": 5
  },
+ "1534192757": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "vellow_games",
+  "src": "tag",
+  "viewers": 4
+ },
  "1534209736": {
   "games": [
    "1867279146"
@@ -12405,6 +12644,16 @@
   "name": "ozoonta",
   "src": "tag",
   "viewers": 5
+ },
+ "1536855900": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "gr6gamesoficial",
+  "src": "tag",
+  "viewers": 13
  },
  "153687067": {
   "games": [
@@ -12841,6 +13090,16 @@
   "src": "tag",
   "viewers": 1
  },
+ "154597676": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "freezzpt",
+  "src": "tag",
+  "viewers": 4
+ },
  "1546205633": {
   "games": [
    "1867279146"
@@ -13159,10 +13418,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "saidnauul",
   "src": "tag",
-  "viewers": 14
+  "viewers": 17
  },
  "1558341793": {
   "games": [
@@ -13360,10 +13619,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tohorotv",
   "src": "tag",
-  "viewers": 6
+  "viewers": 8
  },
  "1565589141": {
   "games": [
@@ -13384,6 +13643,16 @@
   "name": "lucaxx_zz",
   "src": "tag",
   "viewers": 2
+ },
+ "156637759": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "fomeglobal",
+  "src": "tag",
+  "viewers": 5
  },
  "1566550788": {
   "games": [
@@ -13483,6 +13752,16 @@
   "src": "tag",
   "viewers": 5734
  },
+ "157092138": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "tiodoramennn",
+  "src": "tag",
+  "viewers": 1
+ },
  "157123305": {
   "games": [
    "1867279146"
@@ -13498,10 +13777,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gusbr79",
   "src": "tag",
-  "viewers": 5
+  "viewers": 7
  },
  "157396858": {
   "lang": "pt",
@@ -13530,6 +13809,16 @@
   "src": "tag",
   "viewers": 3
  },
+ "157561582": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "narrita_",
+  "src": "tag",
+  "viewers": 5
+ },
  "157588310": {
   "games": [
    "1867279146"
@@ -13545,10 +13834,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bpereirao",
   "src": "tag",
-  "viewers": 4
+  "viewers": 8
  },
  "157809310": {
   "games": [
@@ -13632,10 +13921,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "saullo",
   "src": "tag",
-  "viewers": 707
+  "viewers": 695
  },
  "158613709": {
   "games": [
@@ -13672,7 +13961,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "electrorll",
   "src": "tag",
   "viewers": 7
@@ -13893,10 +14182,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "vaquinhu",
   "src": "tag",
-  "viewers": 40
+  "viewers": 18
  },
  "159425699": {
   "games": [
@@ -13997,10 +14286,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pedrodbr",
   "src": "tag",
-  "viewers": 17
+  "viewers": 31
  },
  "159679415": {
   "games": [
@@ -14017,8 +14306,18 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "leleorsrsrs",
+  "src": "tag",
+  "viewers": 2
+ },
+ "1597397329": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "paomaldito",
   "src": "tag",
   "viewers": 5
  },
@@ -14121,10 +14420,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "eaitkoficial",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "1600769508": {
   "games": [
@@ -14215,10 +14514,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xavierito",
   "src": "tag",
-  "viewers": 19
+  "viewers": 13
  },
  "1606140506": {
   "games": [
@@ -14245,7 +14544,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gorlaios",
   "src": "tag",
   "viewers": 3
@@ -14399,6 +14698,16 @@
   "name": "rafamica_games",
   "src": "tag",
   "viewers": 2
+ },
+ "1608606051": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "marcosx1911",
+  "src": "tag",
+  "viewers": 3
  },
  "1608654908": {
   "lang": "?pt",
@@ -14604,7 +14913,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T06:42:18Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pedro_gameplays_vi",
   "src": "tag",
   "viewers": 2
@@ -15016,10 +15325,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "4ivintte",
   "src": "tag",
-  "viewers": 5
+  "viewers": 6
  },
  "1610512186": {
   "games": [
@@ -15036,10 +15345,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T09:50:14Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "brunitojoga",
   "src": "tag",
-  "viewers": 15
+  "viewers": 31
  },
  "1610523792": {
   "games": [
@@ -15108,6 +15417,16 @@
   "lang": "pt",
   "last_seen": "2026-11-26T08:14:30Z",
   "name": "ruben70770",
+  "src": "tag",
+  "viewers": 1
+ },
+ "161068395": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "carequinha1010",
   "src": "tag",
   "viewers": 1
  },
@@ -15271,6 +15590,16 @@
   "src": "tag",
   "viewers": 3
  },
+ "1611297408": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "danizeraplay",
+  "src": "tag",
+  "viewers": 3
+ },
  "1611316574": {
   "games": [
    "1867279146"
@@ -15391,6 +15720,16 @@
   "src": "tag",
   "viewers": 1
  },
+ "1613300602": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "santz_on",
+  "src": "tag",
+  "viewers": 2
+ },
  "1613317891": {
   "games": [
    "1867279146"
@@ -15440,6 +15779,16 @@
   "name": "nego_leo_10",
   "src": "tag",
   "viewers": 1
+ },
+ "1613927762": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "noxviper01",
+  "src": "tag",
+  "viewers": 2
  },
  "161492410": {
   "games": [
@@ -15625,6 +15974,16 @@
   "name": "sagacidade011",
   "src": "tag",
   "viewers": 1
+ },
+ "163200229": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "xmercenariotm",
+  "src": "tag",
+  "viewers": 2
  },
  "163243902": {
   "games": [
@@ -15984,10 +16343,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "brunomotahd",
   "src": "tag",
-  "viewers": 164
+  "viewers": 111
+ },
+ "166514968": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "bin212",
+  "src": "tag",
+  "viewers": 4
  },
  "166606069": {
   "games": [
@@ -16121,10 +16490,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "murilo",
   "src": "tag",
-  "viewers": 139
+  "viewers": 92
  },
  "168367648": {
   "games": [
@@ -16191,10 +16560,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T20:31:35Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "guaxilol1",
   "src": "tag",
-  "viewers": 372
+  "viewers": 211
  },
  "169144376": {
   "games": [
@@ -16232,6 +16601,16 @@
   "name": "zika_calo",
   "src": "tag",
   "viewers": 27
+ },
+ "169431274": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "synrav3n",
+  "src": "tag",
+  "viewers": 6
  },
  "169517494": {
   "games": [
@@ -16296,6 +16675,16 @@
   "name": "neguin0311",
   "src": "tag",
   "viewers": 5
+ },
+ "170199506": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "zarathuus",
+  "src": "tag",
+  "viewers": 3
  },
  "170201013": {
   "games": [
@@ -16499,10 +16888,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "periclaumsuado",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "172181824": {
   "games": [
@@ -16519,10 +16908,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T07:20:58Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "raflopes",
   "src": "tag",
-  "viewers": 5
+  "viewers": 7
+ },
+ "172310555": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "faboxygaming",
+  "src": "tag",
+  "viewers": 3
  },
  "172405325": {
   "games": [
@@ -16644,6 +17043,16 @@
   "src": "tag",
   "viewers": 774
  },
+ "173449514": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "drgamerdi",
+  "src": "tag",
+  "viewers": 3
+ },
  "173583635": {
   "games": [
    "1867279146"
@@ -16686,10 +17095,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "crazyn78",
   "src": "tag",
-  "viewers": 38
+  "viewers": 36
  },
  "174027369": {
   "games": [
@@ -16777,10 +17186,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "capitaonascimentogames7",
   "src": "tag",
-  "viewers": 18
+  "viewers": 42
  },
  "175116227": {
   "games": [
@@ -16807,10 +17216,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "victormontroze",
   "src": "tag",
-  "viewers": 4
+  "viewers": 7
  },
  "175227831": {
   "games": [
@@ -16847,10 +17256,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "kaiyurx",
   "src": "tag",
-  "viewers": 8
+  "viewers": 6
  },
  "176096861": {
   "games": [
@@ -16861,6 +17270,16 @@
   "name": "darkimperiam",
   "src": "tag",
   "viewers": 0
+ },
+ "176103023": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "luribag",
+  "src": "tag",
+  "viewers": 8
  },
  "176318534": {
   "games": [
@@ -17007,10 +17426,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "maiaragee",
   "src": "tag",
-  "viewers": 26
+  "viewers": 23
  },
  "178331708": {
   "games": [
@@ -17078,6 +17497,16 @@
   "name": "slgamesdz",
   "src": "tag",
   "viewers": 1
+ },
+ "179016283": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "irmaos_piologo",
+  "src": "tag",
+  "viewers": 13
  },
  "179153079": {
   "games": [
@@ -17191,7 +17620,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "alexandregaara",
   "src": "tag",
   "viewers": 24
@@ -17335,10 +17764,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gaules",
   "src": "tag",
-  "viewers": 289
+  "viewers": 423
  },
  "181313609": {
   "games": [
@@ -17395,10 +17824,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xarola_",
   "src": "tag",
-  "viewers": 949
+  "viewers": 706
  },
  "181743919": {
   "games": [
@@ -17477,15 +17906,25 @@
   "src": "tag",
   "viewers": 0
  },
+ "182622597": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "tonysterkoo_",
+  "src": "tag",
+  "viewers": 3
+ },
  "182646942": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ojotak",
   "src": "tag",
-  "viewers": 68
+  "viewers": 4
  },
  "182714869": {
   "lang": "outro",
@@ -17499,10 +17938,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "heitir",
   "src": "tag",
-  "viewers": 715
+  "viewers": 636
  },
  "182835162": {
   "games": [
@@ -17549,7 +17988,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "magodofliperama",
   "src": "tag",
   "viewers": 19
@@ -17595,11 +18034,14 @@
   "viewers": 2
  },
  "183355121": {
+  "games": [
+   "1867279146"
+  ],
   "lang": "pt",
-  "last_seen": "2026-11-14T17:58:46Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "digao98",
   "src": "tag",
-  "viewers": 1
+  "viewers": 5
  },
  "183424739": {
   "games": [
@@ -17630,6 +18072,16 @@
   "name": "gabesrc",
   "src": "tag",
   "viewers": 1
+ },
+ "183992259": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "mariniinha",
+  "src": "tag",
+  "viewers": 3
  },
  "184299594": {
   "games": [
@@ -17716,30 +18168,30 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bettovisckplayer",
   "src": "tag",
-  "viewers": 6
+  "viewers": 7
  },
  "185086654": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xpedropires",
   "src": "tag",
-  "viewers": 5
+  "viewers": 6
  },
  "185125157": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "luanzinkatiau",
   "src": "tag",
-  "viewers": 5
+  "viewers": 3
  },
  "185165617": {
   "games": [
@@ -17797,6 +18249,16 @@
   "name": "pros0ldier",
   "src": "tag",
   "viewers": 2
+ },
+ "185581765": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "ema_villains",
+  "src": "tag",
+  "viewers": 3
  },
  "185682663": {
   "games": [
@@ -17883,10 +18345,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "felira",
   "src": "tag",
-  "viewers": 6
+  "viewers": 5
  },
  "186414941": {
   "games": [
@@ -17963,10 +18425,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "victormds1",
   "src": "tag",
-  "viewers": 110
+  "viewers": 123
  },
  "186922147": {
   "games": [
@@ -18043,10 +18505,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "milenacollen",
   "src": "tag",
-  "viewers": 77
+  "viewers": 75
  },
  "187404585": {
   "games": [
@@ -18093,10 +18555,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "princdiana",
   "src": "tag",
-  "viewers": 3
+  "viewers": 6
  },
  "187564609": {
   "games": [
@@ -18157,6 +18619,16 @@
   "name": "doth_sp",
   "src": "tag",
   "viewers": 4
+ },
+ "188344830": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "todeschini_",
+  "src": "tag",
+  "viewers": 6
  },
  "188532954": {
   "games": [
@@ -18474,10 +18946,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "sabbaag",
   "src": "tag",
-  "viewers": 3
+  "viewers": 5
  },
  "190825315": {
   "lang": "pt",
@@ -18615,10 +19087,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "sksfps1",
   "src": "tag",
-  "viewers": 84
+  "viewers": 97
  },
  "192123173": {
   "games": [
@@ -18746,6 +19218,16 @@
   "name": "toninhoplayvr",
   "src": "tag",
   "viewers": 7
+ },
+ "192885142": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "bigsmokerp_",
+  "src": "tag",
+  "viewers": 1
  },
  "192990522": {
   "games": [
@@ -18888,6 +19370,16 @@
   "src": "tag",
   "viewers": 2
  },
+ "194858656": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "vinifps10_",
+  "src": "tag",
+  "viewers": 5
+ },
  "194906642": {
   "games": [
    "1867279146"
@@ -18994,10 +19486,30 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "emtipao",
   "src": "tag",
-  "viewers": 23
+  "viewers": 26
+ },
+ "196132049": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "tigssg",
+  "src": "tag",
+  "viewers": 4
+ },
+ "196145004": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "malamenbw",
+  "src": "tag",
+  "viewers": 2
  },
  "196149526": {
   "games": [
@@ -19102,6 +19614,16 @@
   "name": "julianowk",
   "src": "tag",
   "viewers": 44
+ },
+ "196671414": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "hunterzera_",
+  "src": "tag",
+  "viewers": 5
  },
  "196921184": {
   "games": [
@@ -19365,10 +19887,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "diogolingua",
   "src": "tag",
-  "viewers": 20
+  "viewers": 8
  },
  "200875977": {
   "games": [
@@ -19432,7 +19954,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "esdrassaturnino",
   "src": "tag",
   "viewers": 6
@@ -19734,10 +20256,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "momolezinha",
   "src": "tag",
-  "viewers": 12
+  "viewers": 13
  },
  "207866602": {
   "games": [
@@ -19824,10 +20346,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "aulik94",
   "src": "tag",
-  "viewers": 8
+  "viewers": 10
  },
  "208918568": {
   "games": [
@@ -19930,6 +20452,16 @@
   "src": "audio",
   "viewers": 1611
  },
+ "210871868": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "itzd1og0",
+  "src": "tag",
+  "viewers": 6
+ },
  "211336976": {
   "games": [
    "1867279146"
@@ -19959,6 +20491,16 @@
   "name": "hideonkise",
   "src": "tag",
   "viewers": 3
+ },
+ "211419912": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "giulianrbs",
+  "src": "tag",
+  "viewers": 13
  },
  "211519796": {
   "games": [
@@ -20129,10 +20671,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "mbellis",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "215691835": {
   "games": [
@@ -20235,6 +20777,16 @@
   "src": "tag",
   "viewers": 4
  },
+ "217824101": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "barbierai",
+  "src": "tag",
+  "viewers": 11
+ },
  "217908298": {
   "games": [
    "1867279146"
@@ -20270,10 +20822,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "trossarda",
   "src": "tag",
-  "viewers": 18
+  "viewers": 22
  },
  "218297431": {
   "games": [
@@ -20394,10 +20946,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lukisygg",
   "src": "tag",
-  "viewers": 3
+  "viewers": 2
  },
  "222575867": {
   "games": [
@@ -20531,10 +21083,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xacorno",
   "src": "tag",
-  "viewers": 4
+  "viewers": 2
  },
  "224951296": {
   "games": [
@@ -20568,10 +21120,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xboladao1",
   "src": "tag",
-  "viewers": 3
+  "viewers": 10
  },
  "225563143": {
   "games": [
@@ -20750,10 +21302,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "nyowoka",
   "src": "tag",
-  "viewers": 11
+  "viewers": 13
  },
  "227995212": {
   "games": [
@@ -20850,10 +21402,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "srapuuppy",
   "src": "tag",
-  "viewers": 3
+  "viewers": 5
  },
  "228996727": {
   "games": [
@@ -21123,6 +21675,16 @@
   "src": "tag",
   "viewers": 66
  },
+ "232761813": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "rodiferraz",
+  "src": "tag",
+  "viewers": 9
+ },
  "232886462": {
   "lang": "pt",
   "last_seen": "2026-11-16T21:59:02Z",
@@ -21145,10 +21707,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lul1z",
   "src": "tag",
-  "viewers": 7
+  "viewers": 24
+ },
+ "233188362": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "moonkaselive",
+  "src": "tag",
+  "viewers": 266
  },
  "233194441": {
   "games": [
@@ -21195,10 +21767,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gandalf23",
   "src": "tag",
-  "viewers": 6
+  "viewers": 8
  },
  "235061182": {
   "lang": "pt",
@@ -21248,6 +21820,16 @@
   "lang": "pt",
   "last_seen": "2026-11-18T20:28:21Z",
   "name": "hurricanebr",
+  "src": "tag",
+  "viewers": 3
+ },
+ "235776590": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "fefetey",
   "src": "tag",
   "viewers": 3
  },
@@ -21394,10 +21976,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T07:01:01Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gabussauro",
   "src": "tag",
-  "viewers": 2
+  "viewers": 5
  },
  "238165083": {
   "games": [
@@ -21444,15 +22026,25 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "johann_ds",
   "src": "tag",
-  "viewers": 7
+  "viewers": 2
  },
  "238876827": {
   "lang": "pt",
   "last_seen": "2026-11-16T06:22:43Z",
   "name": "violetaa_s2",
+  "src": "tag",
+  "viewers": 3
+ },
+ "238907742": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "pedrovikz",
   "src": "tag",
   "viewers": 3
  },
@@ -21505,10 +22097,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ankzlives",
   "src": "tag",
-  "viewers": 4
+  "viewers": 7
  },
  "239614678": {
   "games": [
@@ -21628,10 +22220,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gui_barsan",
   "src": "tag",
-  "viewers": 6
+  "viewers": 3
  },
  "241885419": {
   "games": [
@@ -21876,35 +22468,45 @@
   "src": "tag",
   "viewers": 3
  },
+ "246061503": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "pedroramos027",
+  "src": "tag",
+  "viewers": 2
+ },
  "246149775": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "jorge",
   "src": "tag",
-  "viewers": 208
+  "viewers": 200
  },
  "246212995": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "m1guelc0sta",
   "src": "tag",
-  "viewers": 4
+  "viewers": 6
  },
  "246331116": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T07:31:21Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "asurahp",
   "src": "tag",
-  "viewers": 1
+  "viewers": 3
  },
  "246335528": {
   "games": [
@@ -21931,10 +22533,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tiagovski555yt",
   "src": "tag",
-  "viewers": 916
+  "viewers": 628
  },
  "246622545": {
   "games": [
@@ -22134,10 +22736,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "imchloes2",
   "src": "tag",
-  "viewers": 151
+  "viewers": 144
  },
  "249799097": {
   "games": [
@@ -22213,15 +22815,25 @@
   "src": "tag",
   "viewers": 437
  },
+ "250794533": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "inahurtz",
+  "src": "tag",
+  "viewers": 4
+ },
  "250805063": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bryandutra",
   "src": "tag",
-  "viewers": 72
+  "viewers": 33
  },
  "250982838": {
   "games": [
@@ -22248,10 +22860,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "alauraps",
   "src": "tag",
-  "viewers": 52
+  "viewers": 49
  },
  "251280661": {
   "lang": "pt",
@@ -22292,10 +22904,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "kallunii",
   "src": "tag",
-  "viewers": 5
+  "viewers": 6
  },
  "253505988": {
   "games": [
@@ -22332,20 +22944,40 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "renansaleff",
   "src": "tag",
-  "viewers": 10
+  "viewers": 131
+ },
+ "254436854": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "pyzerr",
+  "src": "tag",
+  "viewers": 5
  },
  "254667145": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "mixs3rtv",
   "src": "tag",
   "viewers": 3
+ },
+ "25478709": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "salsatheone",
+  "src": "tag",
+  "viewers": 48
  },
  "254976247": {
   "games": [
@@ -22451,20 +23083,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "yyravena",
   "src": "tag",
-  "viewers": 21
+  "viewers": 19
  },
  "256936959": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "dani8125",
   "src": "tag",
-  "viewers": 17
+  "viewers": 25
  },
  "257207262": {
   "games": [
@@ -22539,6 +23171,16 @@
   "name": "paulohenriqu_e",
   "src": "tag",
   "viewers": 1
+ },
+ "259533804": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "brfelipedsm",
+  "src": "tag",
+  "viewers": 5
  },
  "259673935": {
   "lang": "pt",
@@ -22673,10 +23315,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T20:10:56Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xcabeludo",
   "src": "tag",
-  "viewers": 10
+  "viewers": 6
  },
  "263893385": {
   "lang": "pt",
@@ -22730,10 +23372,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "21kronos",
   "src": "tag",
-  "viewers": 7
+  "viewers": 4
  },
  "265535021": {
   "games": [
@@ -22794,6 +23436,16 @@
   "name": "xicodagun",
   "src": "tag",
   "viewers": 24
+ },
+ "266653058": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "victorbodim",
+  "src": "tag",
+  "viewers": 2
  },
  "266666203": {
   "games": [
@@ -22931,10 +23583,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "reicarioca",
   "src": "tag",
-  "viewers": 13
+  "viewers": 7
  },
  "269491636": {
   "games": [
@@ -23259,10 +23911,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "itswitu",
   "src": "tag",
-  "viewers": 26
+  "viewers": 29
  },
  "274506669": {
   "lang": "pt",
@@ -23301,6 +23953,16 @@
   "src": "tag",
   "viewers": 5
  },
+ "275055639": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "akillesrp",
+  "src": "tag",
+  "viewers": 3
+ },
  "275058715": {
   "games": [
    "1867279146"
@@ -23320,6 +23982,16 @@
   "name": "omammocci",
   "src": "tag",
   "viewers": 2
+ },
+ "275471548": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "loggando",
+  "src": "tag",
+  "viewers": 3
  },
  "275760824": {
   "lang": "pt",
@@ -23521,10 +24193,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tiburcarp",
   "src": "tag",
-  "viewers": 6
+  "viewers": 5
  },
  "280589402": {
   "games": [
@@ -23595,10 +24267,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "cellbit",
   "src": "tag",
-  "viewers": 9573
+  "viewers": 9897
  },
  "28703999": {
   "games": [
@@ -23615,7 +24287,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tricktor",
   "src": "tag",
   "viewers": 51
@@ -23652,10 +24324,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "skrulax",
   "src": "tag",
-  "viewers": 3
+  "viewers": 2
  },
  "29868230": {
   "games": [
@@ -23791,6 +24463,16 @@
   "name": "xoprok",
   "src": "tag",
   "viewers": 3
+ },
+ "32080140": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "alexandremix",
+  "src": "tag",
+  "viewers": 16
  },
  "32171655": {
   "games": [
@@ -24084,20 +24766,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ca_millia",
   "src": "tag",
-  "viewers": 19
+  "viewers": 30
  },
  "37533332": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "leopqb",
   "src": "tag",
-  "viewers": 7
+  "viewers": 3
  },
  "37549650": {
   "games": [
@@ -24151,10 +24833,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "alanzoka",
   "src": "tag",
-  "viewers": 29637
+  "viewers": 28553
  },
  "38386218": {
   "games": [
@@ -24215,10 +24897,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "malena0202",
   "src": "tag",
-  "viewers": 219
+  "viewers": 223
  },
  "38570357": {
   "games": [
@@ -24235,7 +24917,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "rskeleton",
   "src": "tag",
   "viewers": 7
@@ -24338,10 +25020,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "stolenbr",
   "src": "tag",
-  "viewers": 193
+  "viewers": 83
  },
  "39761216": {
   "games": [
@@ -24363,6 +25045,16 @@
   "src": "tag",
   "viewers": 447
  },
+ "39829519": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "jefferson2432",
+  "src": "tag",
+  "viewers": 4
+ },
  "39830526": {
   "games": [
    "1867279146"
@@ -24378,10 +25070,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "sensyofc",
   "src": "tag",
-  "viewers": 5
+  "viewers": 6
  },
  "39971142": {
   "games": [
@@ -24683,10 +25375,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pedrobiks",
   "src": "tag",
-  "viewers": 30
+  "viewers": 36
  },
  "403710507": {
   "games": [
@@ -24905,20 +25597,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "stayzzi",
   "src": "tag",
-  "viewers": 21
+  "viewers": 17
  },
  "40721144": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "oculosnerdtv",
   "src": "tag",
-  "viewers": 5
+  "viewers": 3
  },
  "407440778": {
   "lang": "pt",
@@ -24986,10 +25678,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "cavaco",
   "src": "tag",
-  "viewers": 174
+  "viewers": 140
  },
  "407967900": {
   "lang": "pt",
@@ -25003,10 +25695,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "cardosotv",
   "src": "tag",
-  "viewers": 57
+  "viewers": 20
  },
  "408170822": {
   "games": [
@@ -25073,30 +25765,40 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "du777",
   "src": "tag",
-  "viewers": 27
+  "viewers": 18
  },
  "408941534": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "0ficialpi",
   "src": "tag",
-  "viewers": 18
+  "viewers": 115
  },
  "40956865": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T07:31:21Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "milii7",
   "src": "tag",
-  "viewers": 1
+  "viewers": 2
+ },
+ "409675602": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "smok3zera_",
+  "src": "tag",
+  "viewers": 3
  },
  "41014107": {
   "games": [
@@ -25244,10 +25946,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gasquez",
   "src": "tag",
-  "viewers": 33
+  "viewers": 20
  },
  "411829834": {
   "lang": "pt",
@@ -25457,6 +26159,16 @@
   "src": "tag",
   "viewers": 27
  },
+ "415085195": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "godb1el",
+  "src": "tag",
+  "viewers": 7
+ },
  "415193460": {
   "games": [
    "1867279146"
@@ -25514,6 +26226,16 @@
   "src": "tag",
   "viewers": 2
  },
+ "416438236": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "iguinh0",
+  "src": "tag",
+  "viewers": 6
+ },
  "416520528": {
   "games": [
    "1867279146"
@@ -25529,10 +26251,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gabzeraftn",
   "src": "tag",
-  "viewers": 8
+  "viewers": 12
  },
  "416688391": {
   "lang": "pt",
@@ -25540,6 +26262,16 @@
   "name": "alemaogopro",
   "src": "tag",
   "viewers": 3
+ },
+ "416694335": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "furia_danoite",
+  "src": "tag",
+  "viewers": 2
  },
  "416711852": {
   "games": [
@@ -25563,10 +26295,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ferbr",
   "src": "tag",
-  "viewers": 425
+  "viewers": 270
  },
  "417251697": {
   "games": [
@@ -25695,6 +26427,16 @@
   "src": "tag",
   "viewers": 8
  },
+ "418876652": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "lionessice_claw",
+  "src": "tag",
+  "viewers": 3
+ },
  "419011355": {
   "games": [
    "1867279146"
@@ -25717,10 +26459,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tohr",
   "src": "tag",
-  "viewers": 21
+  "viewers": 25
  },
  "419306284": {
   "games": [
@@ -25936,10 +26678,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "blingdino",
   "src": "tag",
-  "viewers": 6
+  "viewers": 3
  },
  "42228121": {
   "games": [
@@ -25956,10 +26698,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "duarteviieira",
   "src": "tag",
-  "viewers": 9
+  "viewers": 20
  },
  "422656121": {
   "games": [
@@ -26114,10 +26856,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "quycly",
   "src": "tag",
-  "viewers": 5
+  "viewers": 10
  },
  "425147591": {
   "lang": "pt",
@@ -26218,10 +26960,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "billaposentado",
   "src": "tag",
-  "viewers": 17
+  "viewers": 13
  },
  "42645101": {
   "lang": "pt",
@@ -26239,6 +26981,16 @@
   "name": "mudinhowx",
   "src": "tag",
   "viewers": 12
+ },
+ "426678595": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "kooonen",
+  "src": "tag",
+  "viewers": 8
  },
  "426901636": {
   "games": [
@@ -26375,10 +27127,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "eugenio1st_",
   "src": "tag",
-  "viewers": 63
+  "viewers": 67
  },
  "42814514": {
   "lang": "?pt",
@@ -26404,6 +27156,16 @@
   "lang": "pt",
   "last_seen": "2026-11-21T07:01:01Z",
   "name": "inxkroth",
+  "src": "tag",
+  "viewers": 3
+ },
+ "428653718": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "panizin7",
   "src": "tag",
   "viewers": 3
  },
@@ -26446,6 +27208,16 @@
   "name": "jdiasss_",
   "src": "tag",
   "viewers": 10
+ },
+ "428907678": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "leogamerxt",
+  "src": "tag",
+  "viewers": 3
  },
  "428918200": {
   "games": [
@@ -26550,20 +27322,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "orafiel",
   "src": "tag",
-  "viewers": 3
+  "viewers": 7
  },
  "430266214": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "nuninp",
   "src": "tag",
-  "viewers": 4
+  "viewers": 2
  },
  "43033965": {
   "games": [
@@ -26971,10 +27743,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "chiteiro1",
   "src": "tag",
-  "viewers": 6
+  "viewers": 5
  },
  "437115239": {
   "games": [
@@ -27041,10 +27813,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "stepbr12",
   "src": "tag",
-  "viewers": 14
+  "viewers": 8
  },
  "437626000": {
   "games": [
@@ -27139,6 +27911,16 @@
   "name": "noloeight",
   "src": "tag",
   "viewers": 7
+ },
+ "439791485": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "godz1n_br",
+  "src": "tag",
+  "viewers": 3
  },
  "439829095": {
   "games": [
@@ -27242,7 +28024,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "dr1k0_",
   "src": "tag",
   "viewers": 5
@@ -27272,10 +28054,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "furq",
   "src": "tag",
-  "viewers": 171
+  "viewers": 140
  },
  "441338750": {
   "games": [
@@ -27528,6 +28310,16 @@
   "src": "tag",
   "viewers": 2
  },
+ "444968712": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "akakister",
+  "src": "tag",
+  "viewers": 3
+ },
  "445180813": {
   "lang": "pt",
   "last_seen": "2026-11-15T06:25:01Z",
@@ -27570,10 +28362,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "akumoto",
   "src": "tag",
-  "viewers": 19
+  "viewers": 5
  },
  "445616029": {
   "games": [
@@ -28013,10 +28805,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "magneto7",
   "src": "tag",
-  "viewers": 10
+  "viewers": 8
  },
  "452821031": {
   "games": [
@@ -28053,7 +28845,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bobokas_",
   "src": "tag",
   "viewers": 7
@@ -28274,10 +29066,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "n4ruta",
   "src": "tag",
-  "viewers": 6
+  "viewers": 4
  },
  "456874683": {
   "games": [
@@ -28464,20 +29256,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T20:10:56Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "juliapitzer",
   "src": "tag",
-  "viewers": 164
+  "viewers": 73
  },
  "461619701": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "canal_overgame",
   "src": "tag",
-  "viewers": 9
+  "viewers": 12
  },
  "461648648": {
   "games": [
@@ -28498,6 +29290,16 @@
   "name": "yquanticc",
   "src": "tag",
   "viewers": 1
+ },
+ "461797561": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "papalippe1",
+  "src": "tag",
+  "viewers": 3
  },
  "461832710": {
   "games": [
@@ -28622,10 +29424,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tiozer0",
   "src": "tag",
-  "viewers": 7
+  "viewers": 16
  },
  "463657451": {
   "games": [
@@ -28636,6 +29438,16 @@
   "name": "eilsonjramos",
   "src": "tag",
   "viewers": 8
+ },
+ "463753167": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "1apollofn",
+  "src": "tag",
+  "viewers": 2
  },
  "463828122": {
   "games": [
@@ -28729,10 +29541,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "imchrz",
   "src": "tag",
-  "viewers": 13
+  "viewers": 4
  },
  "46485347": {
   "games": [
@@ -28759,10 +29571,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "olkabone",
   "src": "tag",
-  "viewers": 436
+  "viewers": 475
  },
  "465292512": {
   "games": [
@@ -28883,10 +29695,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "yahguito",
   "src": "tag",
-  "viewers": 6
+  "viewers": 3
  },
  "46600727": {
   "games": [
@@ -28913,10 +29725,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ratoputo",
   "src": "tag",
-  "viewers": 7
+  "viewers": 9
  },
  "466150986": {
   "games": [
@@ -29148,7 +29960,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T06:42:18Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "redxyaz",
   "src": "tag",
   "viewers": 5
@@ -29200,6 +30012,16 @@
   "src": "tag",
   "viewers": 4
  },
+ "46991909": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "pifalcao",
+  "src": "tag",
+  "viewers": 8
+ },
  "470093595": {
   "games": [
    "1867279146"
@@ -29235,10 +30057,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "zsectiion",
   "src": "tag",
-  "viewers": 40
+  "viewers": 52
  },
  "470298375": {
   "games": [
@@ -29306,10 +30128,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "matematico_uerj",
   "src": "tag",
-  "viewers": 11
+  "viewers": 6
  },
  "471034677": {
   "lang": "pt",
@@ -29416,10 +30238,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T20:31:35Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "julianesz",
   "src": "tag",
-  "viewers": 26
+  "viewers": 22
  },
  "472227244": {
   "games": [
@@ -29554,10 +30376,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "juuuaanx",
   "src": "tag",
-  "viewers": 13
+  "viewers": 9
  },
  "47355962": {
   "games": [
@@ -29780,6 +30602,16 @@
   "src": "tag",
   "viewers": 7
  },
+ "476583083": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "fabioppinho",
+  "src": "tag",
+  "viewers": 3
+ },
  "476613417": {
   "games": [
    "1867279146"
@@ -29815,7 +30647,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "garciaz__",
   "src": "tag",
   "viewers": 3
@@ -29835,10 +30667,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "9miller_thereal1",
   "src": "tag",
-  "viewers": 272
+  "viewers": 333
  },
  "477189690": {
   "games": [
@@ -30103,10 +30935,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lastfeaar",
   "src": "tag",
-  "viewers": 26
+  "viewers": 44
  },
  "479694692": {
   "games": [
@@ -30123,10 +30955,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T09:50:14Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tityut",
   "src": "tag",
-  "viewers": 13
+  "viewers": 18
  },
  "479946227": {
   "games": [
@@ -30150,10 +30982,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "onoox_",
   "src": "tag",
-  "viewers": 3
+  "viewers": 2
  },
  "480658687": {
   "games": [
@@ -30262,6 +31094,16 @@
   "src": "tag",
   "viewers": 3
  },
+ "481873930": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "jean_gtv",
+  "src": "tag",
+  "viewers": 1
+ },
  "482639067": {
   "games": [
    "1867279146"
@@ -30302,6 +31144,16 @@
   "src": "tag",
   "viewers": 98
  },
+ "483668421": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "mezenga_x",
+  "src": "tag",
+  "viewers": 3
+ },
  "483686452": {
   "games": [
    "1867279146"
@@ -30318,6 +31170,16 @@
   "name": "respawndoaxel",
   "src": "tag",
   "viewers": 1
+ },
+ "48393132": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "guaxinim",
+  "src": "tag",
+  "viewers": 39
  },
  "483957310": {
   "games": [
@@ -30362,6 +31224,16 @@
   "name": "flavixtv",
   "src": "tag",
   "viewers": 6
+ },
+ "484144575": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "edu_pxt",
+  "src": "tag",
+  "viewers": 3
  },
  "484185846": {
   "lang": "?pt",
@@ -30609,10 +31481,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xximinimiixx",
   "src": "tag",
-  "viewers": 7
+  "viewers": 6
  },
  "486690241": {
   "games": [
@@ -30737,10 +31609,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T20:10:56Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "spitcorp",
   "src": "tag",
-  "viewers": 16
+  "viewers": 14
  },
  "488323521": {
   "games": [
@@ -30832,10 +31704,10 @@
    "21779"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "arcass_",
   "src": "tag",
-  "viewers": 7
+  "viewers": 6
  },
  "489339940": {
   "games": [
@@ -30862,10 +31734,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "zekikugaming",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "489860254": {
   "games": [
@@ -30900,6 +31772,16 @@
   "name": "kynn_hyun",
   "src": "tag",
   "viewers": 3
+ },
+ "490245350": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "frances_s3",
+  "src": "tag",
+  "viewers": 1
  },
  "49043237": {
   "games": [
@@ -31253,10 +32135,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pomboboy22",
   "src": "tag",
-  "viewers": 5
+  "viewers": 3
  },
  "495046728": {
   "lang": "pt",
@@ -31324,10 +32206,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "fezotyyt",
   "src": "tag",
-  "viewers": 10
+  "viewers": 14
  },
  "495786058": {
   "games": [
@@ -31374,10 +32256,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "7kazzio7",
   "src": "tag",
-  "viewers": 37
+  "viewers": 69
  },
  "496231576": {
   "games": [
@@ -31564,6 +32446,26 @@
   "src": "tag",
   "viewers": 1
  },
+ "498296860": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "19denniss19",
+  "src": "tag",
+  "viewers": 1
+ },
+ "498528451": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "wessalves22",
+  "src": "tag",
+  "viewers": 4
+ },
  "49879960": {
   "lang": "pt",
   "last_seen": "2026-11-16T06:22:43Z",
@@ -31749,6 +32651,16 @@
   "src": "tag",
   "viewers": 18
  },
+ "502055217": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "exkuster",
+  "src": "tag",
+  "viewers": 5
+ },
  "502183968": {
   "lang": "pt",
   "last_seen": "2026-11-16T21:59:02Z",
@@ -31838,10 +32750,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "kmkzlive",
   "src": "tag",
-  "viewers": 7
+  "viewers": 3
  },
  "503812710": {
   "games": [
@@ -31940,6 +32852,16 @@
   "src": "tag",
   "viewers": 42
  },
+ "505494986": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "tiu_bah",
+  "src": "tag",
+  "viewers": 26
+ },
  "505618390": {
   "lang": "pt",
   "last_seen": "2026-11-15T18:49:35Z",
@@ -31999,10 +32921,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ofuris",
   "src": "tag",
-  "viewers": 88
+  "viewers": 95
  },
  "506416859": {
   "games": [
@@ -32026,10 +32948,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bonecao",
   "src": "tag",
-  "viewers": 16
+  "viewers": 13
  },
  "507133576": {
   "lang": "pt",
@@ -32148,10 +33070,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "zerckomago",
   "src": "tag",
-  "viewers": 20
+  "viewers": 9
  },
  "508508110": {
   "lang": "pt",
@@ -32185,10 +33107,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bennys2k_",
   "src": "tag",
-  "viewers": 105
+  "viewers": 83
  },
  "508873625": {
   "games": [
@@ -32299,10 +33221,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "tawna",
   "src": "tag",
-  "viewers": 205
+  "viewers": 46
  },
  "51010831": {
   "games": [
@@ -32460,6 +33382,16 @@
   "name": "rhaychuu",
   "src": "tag",
   "viewers": 133
+ },
+ "51218428": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "rickolberg",
+  "src": "tag",
+  "viewers": 3
  },
  "512201820": {
   "games": [
@@ -32652,6 +33584,26 @@
   "name": "muraghtv",
   "src": "tag",
   "viewers": 1
+ },
+ "514682477": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "belalinda_",
+  "src": "tag",
+  "viewers": 1
+ },
+ "515260275": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "rafaelvieira02",
+  "src": "tag",
+  "viewers": 5
  },
  "515370151": {
   "games": [
@@ -32975,6 +33927,16 @@
   "src": "tag",
   "viewers": 6
  },
+ "518872967": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "flamegc73",
+  "src": "tag",
+  "viewers": 4
+ },
  "51891532": {
   "games": [
    "1867279146"
@@ -33064,10 +34026,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "t_ruf0",
   "src": "tag",
-  "viewers": 12
+  "viewers": 11
  },
  "519876936": {
   "games": [
@@ -33230,10 +34192,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "moto_moto157",
   "src": "tag",
-  "viewers": 14
+  "viewers": 12
  },
  "522194503": {
   "lang": "pt",
@@ -33288,10 +34250,10 @@
    "21779"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "demenntador",
   "src": "tag",
-  "viewers": 92
+  "viewers": 62
  },
  "522813328": {
   "games": [
@@ -33389,10 +34351,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "m1stasuave",
   "src": "tag",
-  "viewers": 16
+  "viewers": 13
  },
  "523767278": {
   "games": [
@@ -33446,10 +34408,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T20:31:35Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "v1tin_25",
   "src": "tag",
-  "viewers": 7
+  "viewers": 4
  },
  "524703133": {
   "lang": "pt",
@@ -33490,10 +34452,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T20:31:35Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "drk34_",
   "src": "tag",
-  "viewers": 57
+  "viewers": 50
  },
  "525472586": {
   "games": [
@@ -33580,10 +34542,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pamzinhx",
   "src": "tag",
-  "viewers": 40
+  "viewers": 26
  },
  "52614128": {
   "games": [
@@ -33651,6 +34613,13 @@
   "name": "morrisonjhunior",
   "src": "tag",
   "viewers": 21
+ },
+ "52642922": {
+  "lang": "?pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "l0k0hgaming",
+  "src": "titulo",
+  "viewers": 227
  },
  "526495795": {
   "games": [
@@ -33744,10 +34713,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "maricotafer",
   "src": "tag",
-  "viewers": 84
+  "viewers": 62
  },
  "527387469": {
   "games": [
@@ -33928,10 +34897,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T07:20:58Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lightwuz",
   "src": "tag",
-  "viewers": 103
+  "viewers": 148
  },
  "528712200": {
   "games": [
@@ -34050,15 +35019,25 @@
   "src": "tag",
   "viewers": 4
  },
+ "529453542": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "naninh4games",
+  "src": "tag",
+  "viewers": 7
+ },
  "529816497": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "polex",
   "src": "tag",
-  "viewers": 175
+  "viewers": 92
  },
  "529961145": {
   "games": [
@@ -34129,10 +35108,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T08:27:38Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "hiyo",
   "src": "tag",
-  "viewers": 87
+  "viewers": 92
  },
  "531167598": {
   "games": [
@@ -34196,10 +35175,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "galaxyyk",
   "src": "tag",
-  "viewers": 44
+  "viewers": 57
  },
  "532101295": {
   "games": [
@@ -34326,10 +35305,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "farofinhatoxic",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "533913483": {
   "games": [
@@ -34535,6 +35514,16 @@
   "name": "emyvickys_",
   "src": "tag",
   "viewers": 7
+ },
+ "53695962": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "thenanowarrior",
+  "src": "tag",
+  "viewers": 15
  },
  "537031519": {
   "lang": "pt",
@@ -34795,10 +35784,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "thfugetin",
   "src": "tag",
-  "viewers": 1
+  "viewers": 5
  },
  "540126090": {
   "games": [
@@ -34825,10 +35814,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "noflex7s",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "540888471": {
   "games": [
@@ -34839,6 +35828,16 @@
   "name": "theusxzy9",
   "src": "tag",
   "viewers": 8
+ },
+ "541183308": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "cariiocca",
+  "src": "tag",
+  "viewers": 4
  },
  "54118379": {
   "games": [
@@ -35046,10 +36045,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "mahmoojen",
   "src": "tag",
-  "viewers": 597
+  "viewers": 407
  },
  "544455080": {
   "lang": "?pt",
@@ -35206,7 +36205,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "xoovito",
   "src": "tag",
   "viewers": 7
@@ -35217,6 +36216,16 @@
   "name": "carolllfm",
   "src": "tag",
   "viewers": 28
+ },
+ "546511558": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "doutorwar",
+  "src": "tag",
+  "viewers": 3
  },
  "546637943": {
   "games": [
@@ -35389,6 +36398,16 @@
   "src": "tag",
   "viewers": 1
  },
+ "548034845": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "muraldaleitura",
+  "src": "tag",
+  "viewers": 11
+ },
  "548311859": {
   "games": [
    "1867279146"
@@ -35428,10 +36447,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lucaobugado",
   "src": "tag",
-  "viewers": 114
+  "viewers": 83
  },
  "549305789": {
   "games": [
@@ -35635,6 +36654,16 @@
   "src": "tag",
   "viewers": 7
  },
+ "551395245": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "tncrash12",
+  "src": "tag",
+  "viewers": 4
+ },
  "551434609": {
   "games": [
    "1867279146"
@@ -35670,10 +36699,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "magofilipe",
   "src": "tag",
-  "viewers": 4
+  "viewers": 5
  },
  "551861049": {
   "lang": "pt",
@@ -35826,6 +36855,16 @@
   "name": "indomesticavel",
   "src": "tag",
   "viewers": 12
+ },
+ "553572299": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "brozck",
+  "src": "tag",
+  "viewers": 4
  },
  "553637622": {
   "games": [
@@ -36004,10 +37043,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "fusrobya",
   "src": "tag",
-  "viewers": 58
+  "viewers": 70
  },
  "555530731": {
   "games": [
@@ -36195,10 +37234,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "delessi",
   "src": "tag",
-  "viewers": 12
+  "viewers": 13
  },
  "55702001": {
   "games": [
@@ -36294,6 +37333,16 @@
   "lang": "pt",
   "last_seen": "2026-11-21T19:11:47Z",
   "name": "culturapanda",
+  "src": "tag",
+  "viewers": 5
+ },
+ "557783536": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "dj_hayd",
   "src": "tag",
   "viewers": 5
  },
@@ -36426,10 +37475,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "w_lacabra_w",
   "src": "tag",
-  "viewers": 8
+  "viewers": 11
  },
  "559808219": {
   "games": [
@@ -36506,10 +37555,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "paulo_cidrini",
   "src": "tag",
-  "viewers": 13
+  "viewers": 9
  },
  "560739914": {
   "lang": "pt",
@@ -36644,11 +37693,14 @@
   "viewers": 3
  },
  "562920418": {
+  "games": [
+   "1867279146"
+  ],
   "lang": "pt",
-  "last_seen": "2026-11-16T21:59:02Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lixboaz",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "563065740": {
   "games": [
@@ -36696,7 +37748,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bastet",
   "src": "tag",
   "viewers": 22
@@ -36944,10 +37996,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "umalandrao",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "568095469": {
   "lang": "pt",
@@ -37050,15 +38102,25 @@
   "src": "tag",
   "viewers": 2
  },
+ "570424802": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "casal_a",
+  "src": "tag",
+  "viewers": 6
+ },
  "570504306": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "letmobilet",
   "src": "tag",
-  "viewers": 22
+  "viewers": 16
  },
  "570917498": {
   "games": [
@@ -37087,6 +38149,16 @@
   "src": "tag",
   "viewers": 5
  },
+ "571611476": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "and_tkzinone",
+  "src": "tag",
+  "viewers": 1
+ },
  "571631384": {
   "lang": "pt",
   "last_seen": "2026-11-16T21:59:02Z",
@@ -37099,10 +38171,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T07:20:58Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "brunonoetzold",
   "src": "tag",
-  "viewers": 8
+  "viewers": 10
  },
  "572378186": {
   "games": [
@@ -37251,10 +38323,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "0maycoon",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "574586148": {
   "games": [
@@ -37302,6 +38374,16 @@
   "name": "glorinhaaa__",
   "src": "tag",
   "viewers": 1
+ },
+ "575271120": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "kiridaogames",
+  "src": "tag",
+  "viewers": 4
  },
  "575369079": {
   "games": [
@@ -37381,6 +38463,16 @@
   "src": "tag",
   "viewers": 1
  },
+ "576673631": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "suzanerocha_s",
+  "src": "tag",
+  "viewers": 3
+ },
  "576776530": {
   "games": [
    "1867279146"
@@ -37424,6 +38516,16 @@
   "name": "murilo1423",
   "src": "tag",
   "viewers": 1
+ },
+ "57731301": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "yhenfarias",
+  "src": "tag",
+  "viewers": 8
  },
  "577415977": {
   "games": [
@@ -37578,10 +38680,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gabrielgf",
   "src": "tag",
-  "viewers": 16
+  "viewers": 7
  },
  "579660099": {
   "games": [
@@ -37695,10 +38797,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "mount",
   "src": "tag",
-  "viewers": 897
+  "viewers": 705
  },
  "581203564": {
   "lang": "pt",
@@ -37753,6 +38855,16 @@
   "name": "subdark",
   "src": "tag",
   "viewers": 35
+ },
+ "58217803": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "joaocristina",
+  "src": "tag",
+  "viewers": 2
  },
  "582198035": {
   "games": [
@@ -37836,10 +38948,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "vyckdark_x",
   "src": "tag",
-  "viewers": 3
+  "viewers": 4
  },
  "583292503": {
   "games": [
@@ -37906,17 +39018,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ryangxd1",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "584135387": {
+  "games": [
+   "1867279146"
+  ],
   "lang": "pt",
-  "last_seen": "2026-11-14T17:58:46Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "jota_ohs",
   "src": "tag",
-  "viewers": 10
+  "viewers": 8
  },
  "584330794": {
   "games": [
@@ -37933,10 +39048,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "loadgameoficial",
   "src": "tag",
-  "viewers": 225
+  "viewers": 136
  },
  "584649101": {
   "games": [
@@ -38027,10 +39142,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "meldeusx",
   "src": "tag",
-  "viewers": 30
+  "viewers": 29
  },
  "58691445": {
   "games": [
@@ -38246,7 +39361,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "otavimdx",
   "src": "tag",
   "viewers": 5
@@ -38344,10 +39459,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ventura",
   "src": "tag",
-  "viewers": 222
+  "viewers": 237
  },
  "592430798": {
   "games": [
@@ -38545,10 +39660,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "secretftn",
   "src": "tag",
-  "viewers": 11
+  "viewers": 13
  },
  "595417969": {
   "games": [
@@ -38609,10 +39724,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "noiadocentro011",
   "src": "tag",
-  "viewers": 21
+  "viewers": 20
  },
  "597150686": {
   "games": [
@@ -38691,12 +39806,25 @@
   "src": "tag",
   "viewers": 3
  },
- "598615710": {
+ "598562212": {
+  "games": [
+   "1867279146"
+  ],
   "lang": "pt",
-  "last_seen": "2026-11-16T21:59:02Z",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "itssoraia",
+  "src": "tag",
+  "viewers": 3
+ },
+ "598615710": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "euyuricotta",
   "src": "tag",
-  "viewers": 8
+  "viewers": 6
  },
  "598624141": {
   "games": [
@@ -38804,10 +39932,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "jhonnydrumond",
   "src": "tag",
-  "viewers": 31
+  "viewers": 25
  },
  "599730422": {
   "games": [
@@ -39067,6 +40195,16 @@
   "src": "tag",
   "viewers": 4
  },
+ "604275364": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "dragao8",
+  "src": "tag",
+  "viewers": 1
+ },
  "604714586": {
   "lang": "pt",
   "last_seen": "2026-11-15T18:49:35Z",
@@ -39150,10 +40288,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "g_canez__",
   "src": "tag",
-  "viewers": 16
+  "viewers": 5
  },
  "605991195": {
   "games": [
@@ -39254,10 +40392,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "buldelgado",
   "src": "tag",
-  "viewers": 16
+  "viewers": 8
  },
  "608812391": {
   "games": [
@@ -39514,10 +40652,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "thalz",
   "src": "tag",
-  "viewers": 117
+  "viewers": 216
  },
  "613443954": {
   "lang": "pt",
@@ -39687,15 +40825,25 @@
   "src": "tag",
   "viewers": 4
  },
+ "616505663": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "leandropegamer",
+  "src": "tag",
+  "viewers": 3
+ },
  "61651062": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "brunoderivia",
   "src": "tag",
-  "viewers": 7
+  "viewers": 5
  },
  "61668598": {
   "lang": "pt",
@@ -39783,10 +40931,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "marcianajuuh",
   "src": "tag",
-  "viewers": 18
+  "viewers": 17
  },
  "618805007": {
   "games": [
@@ -39823,10 +40971,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "darkzone",
   "src": "tag",
-  "viewers": 10
+  "viewers": 36
  },
  "61955830": {
   "games": [
@@ -39915,6 +41063,16 @@
   "name": "caiaoalenda",
   "src": "tag",
   "viewers": 5
+ },
+ "62229998": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "sharksakura",
+  "src": "tag",
+  "viewers": 3
  },
  "622412723": {
   "lang": "pt",
@@ -40007,6 +41165,16 @@
   "src": "tag",
   "viewers": 32
  },
+ "625496474": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "osaito__",
+  "src": "tag",
+  "viewers": 7
+ },
  "62552357": {
   "games": [
    "1867279146"
@@ -40082,11 +41250,14 @@
   "viewers": 10
  },
  "627681472": {
+  "games": [
+   "1867279146"
+  ],
   "lang": "pt",
-  "last_seen": "2026-11-15T06:25:01Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "baconzzera",
   "src": "tag",
-  "viewers": 27
+  "viewers": 6
  },
  "62772720": {
   "games": [
@@ -40123,10 +41294,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T06:42:18Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gaaabialm",
   "src": "tag",
-  "viewers": 4
+  "viewers": 7
  },
  "629629791": {
   "lang": "pt",
@@ -40278,10 +41449,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "felipersa",
   "src": "tag",
-  "viewers": 30
+  "viewers": 76
  },
  "63545943": {
   "games": [
@@ -40339,6 +41510,16 @@
   "name": "skipnho",
   "src": "tag",
   "viewers": 2198
+ },
+ "636364053": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "ooootakinho",
+  "src": "tag",
+  "viewers": 5
  },
  "636394051": {
   "games": [
@@ -40584,10 +41765,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "samaftnn",
   "src": "tag",
-  "viewers": 8
+  "viewers": 6
  },
  "640503582": {
   "games": [
@@ -40608,6 +41789,16 @@
   "name": "kakuniboys",
   "src": "tag",
   "viewers": 6
+ },
+ "640614686": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "lobatorl7",
+  "src": "tag",
+  "viewers": 3
  },
  "640658450": {
   "lang": "pt",
@@ -40642,6 +41833,16 @@
   "name": "hxwiyy",
   "src": "tag",
   "viewers": 0
+ },
+ "641182478": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "brn9z",
+  "src": "tag",
+  "viewers": 3
  },
  "641220889": {
   "games": [
@@ -40752,10 +41953,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "yumifenix",
   "src": "tag",
-  "viewers": 13
+  "viewers": 4
  },
  "643608697": {
   "games": [
@@ -40890,6 +42091,16 @@
   "name": "gamartino_",
   "src": "tag",
   "viewers": 1
+ },
+ "645885364": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "robsonscorpion",
+  "src": "tag",
+  "viewers": 3
  },
  "646012791": {
   "lang": "pt",
@@ -41104,10 +42315,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "itsjuuzinha",
   "src": "tag",
-  "viewers": 81
+  "viewers": 108
  },
  "651581340": {
   "games": [
@@ -41148,10 +42359,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "giulianemartens",
   "src": "tag",
-  "viewers": 8
+  "viewers": 5
  },
  "65339674": {
   "games": [
@@ -41584,7 +42795,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bellamarquees",
   "src": "tag",
   "viewers": 3
@@ -41702,10 +42913,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "diogogarcia97",
   "src": "tag",
-  "viewers": 11
+  "viewers": 4
  },
  "666102078": {
   "games": [
@@ -41856,10 +43067,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "veronezus",
   "src": "tag",
-  "viewers": 8
+  "viewers": 7
  },
  "668887978": {
   "games": [
@@ -41896,10 +43107,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "renzy333",
   "src": "tag",
-  "viewers": 17
+  "viewers": 14
  },
  "669376532": {
   "games": [
@@ -41947,6 +43158,16 @@
   "name": "faixa_preta_gamer",
   "src": "tag",
   "viewers": 1
+ },
+ "669833966": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "mayamelina",
+  "src": "tag",
+  "viewers": 7
  },
  "670169195": {
   "games": [
@@ -42021,6 +43242,16 @@
   "name": "svr__",
   "src": "tag",
   "viewers": 5
+ },
+ "671706621": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "caracols_tv",
+  "src": "tag",
+  "viewers": 4
  },
  "671784024": {
   "games": [
@@ -42111,10 +43342,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "senhora_zira",
   "src": "tag",
-  "viewers": 7
+  "viewers": 9
  },
  "674203012": {
   "lang": "pt",
@@ -42138,10 +43369,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "richellyna",
   "src": "tag",
-  "viewers": 175
+  "viewers": 167
  },
  "674657832": {
   "games": [
@@ -42289,10 +43520,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "mathkiller",
   "src": "tag",
-  "viewers": 16
+  "viewers": 11
  },
  "67853712": {
   "games": [
@@ -42400,10 +43631,17 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "stepessoa",
   "src": "tag",
-  "viewers": 38
+  "viewers": 36
+ },
+ "680761979": {
+  "lang": "?pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "kingpooltv",
+  "src": "titulo",
+  "viewers": 0
  },
  "68116858": {
   "games": [
@@ -42414,6 +43652,16 @@
   "name": "joaogpanda",
   "src": "tag",
   "viewers": 1
+ },
+ "68120006": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "tusted",
+  "src": "tag",
+  "viewers": 15
  },
  "681433936": {
   "lang": "pt",
@@ -42441,6 +43689,16 @@
   "name": "leo99mendes",
   "src": "tag",
   "viewers": 1
+ },
+ "68277582": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "renatus18xd",
+  "src": "tag",
+  "viewers": 3
  },
  "68285662": {
   "games": [
@@ -42601,10 +43859,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T20:31:35Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bysiilence",
   "src": "tag",
-  "viewers": 11
+  "viewers": 9
  },
  "687066293": {
   "games": [
@@ -42808,6 +44066,16 @@
   "src": "tag",
   "viewers": 1
  },
+ "690148638": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "jottavaovivo",
+  "src": "tag",
+  "viewers": 9
+ },
  "690242700": {
   "games": [
    "1867279146"
@@ -42932,10 +44200,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "itsryanmarcos",
   "src": "tag",
-  "viewers": 3
+  "viewers": 5
  },
  "693354948": {
   "games": [
@@ -43007,6 +44275,16 @@
   "name": "missxandi",
   "src": "tag",
   "viewers": 98
+ },
+ "694768627": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "jeanhcgamer",
+  "src": "tag",
+  "viewers": 3
  },
  "694921589": {
   "games": [
@@ -43083,10 +44361,30 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "souzeirax",
   "src": "tag",
-  "viewers": 11
+  "viewers": 10
+ },
+ "695955869": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "petheus",
+  "src": "tag",
+  "viewers": 12
+ },
+ "696227966": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "betobetagens",
+  "src": "tag",
+  "viewers": 8
  },
  "696713157": {
   "games": [
@@ -43103,7 +44401,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "riquers02",
   "src": "tag",
   "viewers": 3
@@ -43113,10 +44411,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T07:13:43Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "nickziintv",
   "src": "tag",
-  "viewers": 7
+  "viewers": 4
  },
  "698522837": {
   "games": [
@@ -43200,7 +44498,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "loucotrex",
   "src": "tag",
   "viewers": 4
@@ -43251,10 +44549,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "pamellaribeiro25",
   "src": "tag",
-  "viewers": 31
+  "viewers": 18
  },
  "70202381": {
   "games": [
@@ -43342,10 +44640,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lukezanto",
   "src": "tag",
-  "viewers": 8
+  "viewers": 5
  },
  "704065341": {
   "games": [
@@ -43409,10 +44707,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T06:42:18Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "karen_brasil",
   "src": "tag",
-  "viewers": 8
+  "viewers": 12
  },
  "705414178": {
   "games": [
@@ -43460,6 +44758,16 @@
   "name": "davi_muto95",
   "src": "tag",
   "viewers": 1
+ },
+ "706054830": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "jenizyn",
+  "src": "tag",
+  "viewers": 118
  },
  "706078553": {
   "lang": "pt",
@@ -43510,10 +44818,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "wilianbonnerlol",
   "src": "tag",
-  "viewers": 129
+  "viewers": 116
  },
  "707330767": {
   "games": [
@@ -43587,10 +44895,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T07:13:43Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "jermanmota",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "709341999": {
   "games": [
@@ -43638,6 +44946,16 @@
   "name": "kazinh_o",
   "src": "tag",
   "viewers": 4
+ },
+ "71022152": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "aa_plays",
+  "src": "tag",
+  "viewers": 2
  },
  "710270229": {
   "games": [
@@ -43691,10 +45009,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "hiro_o",
   "src": "tag",
-  "viewers": 46
+  "viewers": 51
  },
  "711225279": {
   "lang": "pt",
@@ -43833,10 +45151,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "kazamaster96",
   "src": "tag",
-  "viewers": 16
+  "viewers": 12
  },
  "71486286": {
   "games": [
@@ -44055,10 +45373,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T07:20:58Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "klothilus_",
   "src": "tag",
-  "viewers": 5
+  "viewers": 1
  },
  "721723874": {
   "games": [
@@ -44190,10 +45508,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "revivsphere",
   "src": "tag",
-  "viewers": 5
+  "viewers": 4
  },
  "723967014": {
   "lang": "pt",
@@ -44243,10 +45561,10 @@
   "viewers": 7
  },
  "72480716": {
-  "lang": "?pt",
-  "last_seen": "2026-11-26T08:14:30Z",
-  "name": "tonton",
-  "src": "titulo",
+  "lang": "outro",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "Tonton",
+  "src": "audio",
   "viewers": 2745
  },
  "725141519": {
@@ -44526,10 +45844,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "taticalgaming6",
   "src": "tag",
-  "viewers": 3
+  "viewers": 6
  },
  "730819080": {
   "games": [
@@ -44540,6 +45858,16 @@
   "name": "fdseven78",
   "src": "tag",
   "viewers": 1
+ },
+ "730844775": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "19ghxst",
+  "src": "tag",
+  "viewers": 3
  },
  "730913818": {
   "games": [
@@ -44718,6 +46046,16 @@
   "src": "tag",
   "viewers": 2
  },
+ "736566543": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "foxyycsgo_",
+  "src": "tag",
+  "viewers": 10
+ },
  "736757960": {
   "games": [
    "1867279146"
@@ -44769,10 +46107,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "banana_029",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "738909347": {
   "lang": "pt",
@@ -44890,6 +46228,16 @@
   "lang": "pt",
   "last_seen": "2026-11-18T20:28:21Z",
   "name": "toggetv",
+  "src": "tag",
+  "viewers": 1
+ },
+ "74264165": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "ryshd",
   "src": "tag",
   "viewers": 1
  },
@@ -45093,10 +46441,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "serra",
   "src": "tag",
-  "viewers": 32
+  "viewers": 45
  },
  "752013522": {
   "games": [
@@ -45153,10 +46501,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T08:27:38Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ynotzeus_",
   "src": "tag",
-  "viewers": 1
+  "viewers": 3
  },
  "752652763": {
   "games": [
@@ -45510,10 +46858,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T08:27:38Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "butecodomineiro",
   "src": "tag",
-  "viewers": 16
+  "viewers": 4
  },
  "762580266": {
   "games": [
@@ -45723,6 +47071,16 @@
   "src": "tag",
   "viewers": 3
  },
+ "770255476": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "juniorlima_rp",
+  "src": "tag",
+  "viewers": 4
+ },
  "770533758": {
   "lang": "pt",
   "last_seen": "2026-11-14T17:58:46Z",
@@ -45735,10 +47093,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "fests1",
   "src": "tag",
-  "viewers": 13
+  "viewers": 11
  },
  "770726359": {
   "games": [
@@ -45923,10 +47281,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lord_lucass",
   "src": "tag",
-  "viewers": 12
+  "viewers": 10
  },
  "774279631": {
   "games": [
@@ -46014,7 +47372,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "plup117oficial",
   "src": "tag",
   "viewers": 15
@@ -46102,10 +47460,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "brasilpota",
   "src": "tag",
-  "viewers": 9
+  "viewers": 4
  },
  "778525931": {
   "games": [
@@ -46310,10 +47668,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "dexzim",
   "src": "tag",
-  "viewers": 7
+  "viewers": 5
  },
  "783176932": {
   "games": [
@@ -46370,10 +47728,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "batatatv_ofc",
   "src": "tag",
-  "viewers": 20
+  "viewers": 13
  },
  "784476574": {
   "games": [
@@ -46437,20 +47795,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bilous_gg",
   "src": "tag",
-  "viewers": 6
+  "viewers": 5
  },
  "785851610": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "badgesbr",
   "src": "tag",
-  "viewers": 13
+  "viewers": 14
  },
  "785955797": {
   "games": [
@@ -46617,10 +47975,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "brunoo96tv",
   "src": "tag",
-  "viewers": 2
+  "viewers": 4
  },
  "790639039": {
   "lang": "outro",
@@ -46654,10 +48012,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "rebecatranss",
   "src": "tag",
-  "viewers": 210
+  "viewers": 148
  },
  "791480831": {
   "lang": "pt",
@@ -46752,17 +48110,17 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "emitezinfps",
   "src": "tag",
-  "viewers": 26
+  "viewers": 130
  },
  "794031559": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-19T07:20:58Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "dybala_silva",
   "src": "tag",
   "viewers": 5
@@ -47604,7 +48962,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "udantt",
   "src": "tag",
   "viewers": 16
@@ -47652,6 +49010,16 @@
   "name": "covinha845",
   "src": "tag",
   "viewers": 1
+ },
+ "814304462": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "rov7sp",
+  "src": "tag",
+  "viewers": 59
  },
  "814345443": {
   "lang": "pt",
@@ -48203,6 +49571,16 @@
   "src": "tag",
   "viewers": 12
  },
+ "823855927": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "fehsavy",
+  "src": "tag",
+  "viewers": 3
+ },
  "823909807": {
   "lang": "pt",
   "last_seen": "2026-11-16T21:59:02Z",
@@ -48291,6 +49669,16 @@
   "src": "tag",
   "viewers": 6
  },
+ "825746107": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "galinhochickenlittl3",
+  "src": "tag",
+  "viewers": 2
+ },
  "826127946": {
   "lang": "pt",
   "last_seen": "2026-11-14T17:58:46Z",
@@ -48337,10 +49725,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "alecio590",
   "src": "tag",
-  "viewers": 32
+  "viewers": 31
  },
  "827659487": {
   "games": [
@@ -48867,10 +50255,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-23T23:51:10Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "zenettotv",
   "src": "tag",
-  "viewers": 6
+  "viewers": 5
  },
  "842724969": {
   "lang": "pt",
@@ -49095,10 +50483,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "thalitasky",
   "src": "tag",
-  "viewers": 17
+  "viewers": 11
  },
  "851476862": {
   "games": [
@@ -49203,6 +50591,16 @@
   "src": "tag",
   "viewers": 8
  },
+ "856172060": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "brennykkjj",
+  "src": "tag",
+  "viewers": 3
+ },
  "85628371": {
   "games": [
    "1867279146"
@@ -49296,10 +50694,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "lttrickster",
   "src": "tag",
-  "viewers": 14
+  "viewers": 13
  },
  "859681208": {
   "lang": "pt",
@@ -49383,20 +50781,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "andarilhoo",
   "src": "tag",
-  "viewers": 89
+  "viewers": 92
  },
  "86508378": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "dieguesc",
   "src": "tag",
-  "viewers": 3
+  "viewers": 5
  },
  "86559886": {
   "games": [
@@ -49508,7 +50906,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "viperz7x",
   "src": "tag",
   "viewers": 11
@@ -49623,10 +51021,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "flavinnbr",
   "src": "tag",
-  "viewers": 75
+  "viewers": 83
  },
  "873245129": {
   "games": [
@@ -49677,10 +51075,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "carvellojoao",
   "src": "tag",
-  "viewers": 4
+  "viewers": 2
  },
  "874750605": {
   "lang": "pt",
@@ -49708,6 +51106,16 @@
   "name": "begramii",
   "src": "tag",
   "viewers": 1
+ },
+ "87590788": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "lthejukesl",
+  "src": "tag",
+  "viewers": 3
  },
  "876225646": {
   "games": [
@@ -50038,10 +51446,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "eliaskawabe",
   "src": "tag",
-  "viewers": 4
+  "viewers": 3
  },
  "884585656": {
   "games": [
@@ -50291,10 +51699,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "ratinharp",
   "src": "tag",
-  "viewers": 11
+  "viewers": 8
  },
  "891608829": {
   "games": [
@@ -50403,10 +51811,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-20T20:10:56Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "z3rgtv",
   "src": "tag",
-  "viewers": 12
+  "viewers": 19
  },
  "89675615": {
   "games": [
@@ -50541,10 +51949,20 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "crazyrafa1",
   "src": "tag",
-  "viewers": 6
+  "viewers": 5
+ },
+ "900352800": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "explorador_preguicoso",
+  "src": "tag",
+  "viewers": 15
  },
  "900571027": {
   "games": [
@@ -50690,10 +52108,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "kaic_87",
   "src": "tag",
-  "viewers": 9
+  "viewers": 8
  },
  "905940767": {
   "games": [
@@ -50960,7 +52378,7 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-18T20:28:21Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "utet0",
   "src": "tag",
   "viewers": 4
@@ -50992,6 +52410,16 @@
   "lang": "pt",
   "last_seen": "2026-11-22T06:42:18Z",
   "name": "andexgames",
+  "src": "tag",
+  "viewers": 6
+ },
+ "919446783": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "x4nzada",
   "src": "tag",
   "viewers": 6
  },
@@ -51503,10 +52931,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "smearyhub",
   "src": "tag",
-  "viewers": 5
+  "viewers": 8
  },
  "936590574": {
   "games": [
@@ -51549,6 +52977,16 @@
   "src": "tag",
   "viewers": 1
  },
+ "937603392": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "oclenis",
+  "src": "tag",
+  "viewers": 382
+ },
  "93773199": {
   "games": [
    "21779"
@@ -51564,10 +53002,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "duda_tech",
   "src": "tag",
-  "viewers": 47
+  "viewers": 23
  },
  "938264177": {
   "games": [
@@ -51628,6 +53066,16 @@
   "name": "steelegabr",
   "src": "tag",
   "viewers": 95
+ },
+ "939503904": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "sulyfps",
+  "src": "tag",
+  "viewers": 6
  },
  "939584575": {
   "lang": "pt",
@@ -51753,20 +53201,30 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "itsdianabarros",
   "src": "tag",
-  "viewers": 18
+  "viewers": 21
+ },
+ "94316110": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "pastilhaas",
+  "src": "tag",
+  "viewers": 3
  },
  "943211100": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "julyandra",
   "src": "tag",
-  "viewers": 14
+  "viewers": 8
  },
  "94357073": {
   "games": [
@@ -51820,10 +53278,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bialorac",
   "src": "tag",
-  "viewers": 12
+  "viewers": 8
  },
  "948169246": {
   "games": [
@@ -51928,10 +53386,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-26T08:14:30Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "exomanzero",
   "src": "tag",
-  "viewers": 1
+  "viewers": 3
  },
  "954302803": {
   "games": [
@@ -51948,10 +53406,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-21T19:11:47Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "beamom",
   "src": "tag",
-  "viewers": 737
+  "viewers": 323
  },
  "955189031": {
   "games": [
@@ -52063,10 +53521,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "nyhume",
   "src": "tag",
-  "viewers": 14
+  "viewers": 9
  },
  "958940105": {
   "games": [
@@ -52140,10 +53598,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-25T21:39:12Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "nicolaubento",
   "src": "tag",
-  "viewers": 2
+  "viewers": 7
  },
  "963132308": {
   "games": [
@@ -52165,15 +53623,25 @@
   "src": "tag",
   "viewers": 1
  },
+ "964444774": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "lord_vasconcelos",
+  "src": "tag",
+  "viewers": 5
+ },
  "96477958": {
   "games": [
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "f3yh",
   "src": "tag",
-  "viewers": 23
+  "viewers": 115
  },
  "965106524": {
   "games": [
@@ -52272,6 +53740,16 @@
   "name": "kurtycrazy_",
   "src": "tag",
   "viewers": 2
+ },
+ "970286529": {
+  "games": [
+   "1867279146"
+  ],
+  "lang": "pt",
+  "last_seen": "2026-11-26T21:28:22Z",
+  "name": "lzkp1",
+  "src": "tag",
+  "viewers": 13
  },
  "970687782": {
   "games": [
@@ -52436,10 +53914,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-22T19:34:16Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "gzikka",
   "src": "tag",
-  "viewers": 39
+  "viewers": 25
  },
  "982322192": {
   "games": [
@@ -52747,10 +54225,10 @@
    "1867279146"
   ],
   "lang": "pt",
-  "last_seen": "2026-11-24T22:23:25Z",
+  "last_seen": "2026-11-26T21:28:22Z",
   "name": "bgm_fps",
   "src": "tag",
-  "viewers": 99
+  "viewers": 96
  },
  "998716204": {
   "games": [
